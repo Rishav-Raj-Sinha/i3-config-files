@@ -1,0 +1,5 @@
+[Bookmarks]
+[Recent]
+/home/rishav/blender/sword/
+/home/rishav/blender/
+/home/rishav/Downloads/Blender_MineCraft_YouTube/textures/

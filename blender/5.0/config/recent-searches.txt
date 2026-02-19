@@ -1,0 +1,9 @@
+Texture ▸ Image Texture
+   brown
+Generate ▸ Array
+Add ▸ Camera
+Filter ▸ Glare
+Camera & Lens Effects ▸ Chromatic Aberration
+Deform ▸ Simple Deform
+Generate ▸ Mirror
+Generate ▸ Subdivision Surface
