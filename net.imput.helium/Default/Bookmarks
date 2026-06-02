@@ -1,0 +1,1773 @@
+{
+   "checksum": "d8e2a2833035f6dfc33688a5c26f95c5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13342353796000000",
+            "date_last_used": "0",
+            "guid": "b3ee76a9-ed13-4f17-ad60-6fa559399d96",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global"
+         }, {
+            "date_added": "13306845931000000",
+            "date_last_used": "0",
+            "guid": "c2a306fd-102d-4f9e-91bd-3715d8e4cccb",
+            "id": "6",
+            "name": "spotify",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13312582785000000",
+            "date_last_used": "13423960841921948",
+            "guid": "7a284671-1692-47d7-bbb7-e18975f6428a",
+            "id": "7",
+            "name": "YouTube Music",
+            "type": "url",
+            "url": "https://music.youtube.com/"
+         }, {
+            "date_added": "13308965147000000",
+            "date_last_used": "13424509088213541",
+            "guid": "e5a7359c-0935-4838-9ff0-e63c21a67491",
+            "id": "8",
+            "name": "Pinterest",
+            "type": "url",
+            "url": "https://in.pinterest.com/"
+         }, {
+            "date_added": "13309261161000000",
+            "date_last_used": "0",
+            "guid": "323320fe-5f58-4232-9460-6144a400f9cf",
+            "id": "9",
+            "name": "Dashboard | HackerRank",
+            "type": "url",
+            "url": "https://www.hackerrank.com/dashboard"
+         }, {
+            "date_added": "13309472240000000",
+            "date_last_used": "13423953660381374",
+            "guid": "ebd4bb09-6989-4c09-9c1a-aba13aadece5",
+            "id": "10",
+            "name": "Letterboxd • Social film discovery.",
+            "type": "url",
+            "url": "https://letterboxd.com/"
+         }, {
+            "children": [ {
+               "date_added": "13329517091000000",
+               "date_last_used": "0",
+               "guid": "db955bec-6d08-4cad-965e-58d386de7efd",
+               "id": "12",
+               "name": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++ | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/cpp-deep-dive/learn/lecture/10325680?start=135#overview"
+            }, {
+               "date_added": "13329399690000000",
+               "date_last_used": "0",
+               "guid": "ffe0ef22-5061-4d70-815f-6ed252621336",
+               "id": "13",
+               "name": "Solve C++ | HackerRank",
+               "type": "url",
+               "url": "https://www.hackerrank.com/domains/cpp"
+            } ],
+            "date_added": "13423093934880384",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "39e3a15a-3431-443b-8150-9c526fa73066",
+            "id": "11",
+            "name": "C++",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13329517129000000",
+               "date_last_used": "0",
+               "guid": "3dc00674-d58b-441f-af0e-e1ad4e9e33d8",
+               "id": "15",
+               "name": "The Complete 2023 Web Development Bootcamp | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37330378?start=1#overview"
+            }, {
+               "date_added": "13317299174000000",
+               "date_last_used": "0",
+               "guid": "655aa0c6-1f48-40a0-b556-d796e3684f22",
+               "id": "16",
+               "name": "Color Palettes for Designers and Artists - Color Hunt",
+               "type": "url",
+               "url": "https://colorhunt.co/"
+            }, {
+               "date_added": "13313416041000000",
+               "date_last_used": "0",
+               "guid": "2c52d945-18ac-458d-aa33-b239b9691ca6",
+               "id": "17",
+               "name": "HTML: HyperText Markup Language | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+            }, {
+               "date_added": "13317299283000000",
+               "date_last_used": "0",
+               "guid": "c92aab33-71a4-489d-9100-963a14cf605f",
+               "id": "18",
+               "name": "CSS Colors - CSS: Cascading Style Sheets | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors"
+            } ],
+            "date_added": "13423093934880653",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "694cec2c-b03f-4000-afa7-3128f24c4866",
+            "id": "14",
+            "name": "webdev",
+            "type": "folder"
+         }, {
+            "date_added": "13321821605000000",
+            "date_last_used": "0",
+            "guid": "78f74604-bce2-4f61-a6c2-0e06cd098782",
+            "id": "19",
+            "name": "lichess.org • Free Online Chess",
+            "type": "url",
+            "url": "https://lichess.org/"
+         }, {
+            "date_added": "13313331256000000",
+            "date_last_used": "0",
+            "guid": "16187a70-691b-48bc-b11b-65ead0a7f469",
+            "id": "20",
+            "name": "Typing Practice",
+            "type": "url",
+            "url": "https://www.keybr.com/"
+         }, {
+            "date_added": "13341331126000000",
+            "date_last_used": "0",
+            "guid": "91c86d28-26d9-486a-92f8-e0afc4e519c2",
+            "id": "21",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13321982779000000",
+            "date_last_used": "0",
+            "guid": "c99b9270-a92c-4c62-8581-3a8a93b1e9b0",
+            "id": "24",
+            "name": "Poetry Foundation",
+            "type": "url",
+            "url": "https://www.poetryfoundation.org/"
+         }, {
+            "date_added": "13313141208000000",
+            "date_last_used": "0",
+            "guid": "e9ca7782-9ed4-4830-9b78-28a0065c3384",
+            "id": "26",
+            "name": "Web Development Course Resources | The App Brewery",
+            "type": "url",
+            "url": "https://www.appbrewery.co/p/web-development-course-resources/"
+         }, {
+            "date_added": "13313147928000000",
+            "date_last_used": "0",
+            "guid": "b526b3b7-888d-49db-b651-7718b29ca764",
+            "id": "27",
+            "name": "Create a New Pen",
+            "type": "url",
+            "url": "https://codepen.io/pen/"
+         }, {
+            "date_added": "13314117274000000",
+            "date_last_used": "0",
+            "guid": "a68a6d6e-0313-4cbd-99e7-a30383156266",
+            "id": "28",
+            "name": "‎The World is Hell: Hopeless Cinema, a list of films by Darren Carver-Balsiger • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/darrencb/list/the-world-is-hell-hopeless-cinema/"
+         }, {
+            "date_added": "13314117491000000",
+            "date_last_used": "0",
+            "guid": "77a0a143-f3b8-41cf-b148-88316ac5f370",
+            "id": "29",
+            "name": "‎Nihilism and Misanthropy, a list of films by Bruno Mundel • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/brunoo/list/nihilism-and-misanthropy/"
+         }, {
+            "date_added": "13314153087000000",
+            "date_last_used": "0",
+            "guid": "dee19452-4ce3-42b9-99e8-1cee6ac50b73",
+            "id": "30",
+            "name": "‎Psychosexual dramas, nihilistic fever dreams & surrealism with a touch of humour, a list of films by magrosleau • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/magrosleau/list/psychosexual-dramas-nihilistic-fever-dreams/"
+         }, {
+            "date_added": "13314153520000000",
+            "date_last_used": "0",
+            "guid": "8c57ac0c-a77d-4904-918a-3274673e1fb6",
+            "id": "31",
+            "name": "‎Befriending the lyrical loneliness..., a list of films by Hungkat • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/kun/list/befriending-the-lyrical-loneliness/"
+         }, {
+            "date_added": "13314153747000000",
+            "date_last_used": "0",
+            "guid": "4f0998da-00f8-4271-b282-a5b0491c03a9",
+            "id": "32",
+            "name": "‎Mélancholy as a Breathtaking Aesthetic Emotion, a list of films by Hungkat • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/kun/list/melancholy-as-a-breathtaking-aesthetic-emotion/"
+         }, {
+            "date_added": "13314154676000000",
+            "date_last_used": "0",
+            "guid": "d4cb2098-c86c-403e-a390-5e596d2db630",
+            "id": "33",
+            "name": "‎lonely people in neon cities, a list of films by rafael 🌞 • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/hydratedshrimp/list/lonely-people-in-neon-cities/"
+         }, {
+            "date_added": "13314613515000000",
+            "date_last_used": "0",
+            "guid": "e6bbbd50-6818-4c23-b47d-b5dde373076a",
+            "id": "34",
+            "name": "Rijksstudio - Rijksmuseum",
+            "type": "url",
+            "url": "https://www.rijksmuseum.nl/en/rijksstudio"
+         }, {
+            "date_added": "13314950049000000",
+            "date_last_used": "0",
+            "guid": "5261103e-da0b-46b4-968a-0f20caf427b8",
+            "id": "35",
+            "name": "Pirated Games Mega Thread",
+            "type": "url",
+            "url": "https://rentry.org/pgames-mega-thread"
+         }, {
+            "date_added": "13314952962000000",
+            "date_last_used": "0",
+            "guid": "f5b7dcec-b492-4d2d-b26d-7b344e0c4a0f",
+            "id": "36",
+            "name": "Dark Academia-Collected works of Azzie - All Rijksstudio's - Rijksstudio - Rijksmuseum",
+            "type": "url",
+            "url": "https://www.rijksmuseum.nl/en/rijksstudio/3652721--azzie/collections/dark-academia?ii=0&p=0"
+         }, {
+            "date_added": "13318518564000000",
+            "date_last_used": "0",
+            "guid": "45879de9-18c7-4389-b007-3452787dd19f",
+            "id": "37",
+            "name": "‎Indian Experimental/ Alternative Cinema, a list of films by dr_cinemaniac98 • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/dr_cinemaniac98/list/indian-experimental-alternative-cinema/"
+         }, {
+            "date_added": "13318814895000000",
+            "date_last_used": "0",
+            "guid": "f211c358-253b-492d-a039-0c55ed4b9497",
+            "id": "38",
+            "name": "至爱梵高·星空之谜 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=G3IWNJeo-Aw"
+         }, {
+            "date_added": "13319370626000000",
+            "date_last_used": "0",
+            "guid": "98239681-939f-42da-9e88-9db18af24434",
+            "id": "39",
+            "name": "exurb1a - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/@Exurb1a/videos"
+         }, {
+            "date_added": "13320217018000000",
+            "date_last_used": "0",
+            "guid": "5250d242-7a4b-4a95-ad4d-8fc54d97f17f",
+            "id": "40",
+            "name": "NFDC: Cinemas of india",
+            "type": "url",
+            "url": "https://www.nfdcindia.com/"
+         }, {
+            "date_added": "13321347870000000",
+            "date_last_used": "0",
+            "guid": "dfa22f00-4624-4892-a9a9-1c88190d4f7c",
+            "id": "41",
+            "name": "‎The Complete Criterion Collection, a list of films by Josh • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/jbutts15/list/the-complete-criterion-collection/"
+         }, {
+            "date_added": "13321348884000000",
+            "date_last_used": "0",
+            "guid": "587ca286-3889-445d-b85f-d50828f89196",
+            "id": "42",
+            "name": "Pomodoro Timer Online - Pomofocus",
+            "type": "url",
+            "url": "https://pomofocus.io/"
+         }, {
+            "date_added": "13305749827000000",
+            "date_last_used": "0",
+            "guid": "1ea38321-1577-4da8-a825-69c04dc41fb2",
+            "id": "43",
+            "name": "JAVA Abdul Bari",
+            "type": "url",
+            "url": "https://mega.nz/folder/xg51yC4D#HsSY4vEg4lRIGYAtUxm0fQ/folder/F15jHYzJ"
+         }, {
+            "date_added": "13312582298000000",
+            "date_last_used": "0",
+            "guid": "0aacbdb1-e761-4086-b45e-e82b106dbfd2",
+            "id": "44",
+            "name": "Dashboard | Khan Academy",
+            "type": "url",
+            "url": "https://www.khanacademy.org/profile/me/courses"
+         }, {
+            "date_added": "13315930767000000",
+            "date_last_used": "0",
+            "guid": "f0b76db1-0f98-4c05-91a7-9e87d9a0fea9",
+            "id": "45",
+            "name": "(2117) VATICAN MUSEUMS EMPTY, a cinematic video of this amazing museum shot with DJI OSMO POCKET - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=JKi7koKWwtc"
+         }, {
+            "date_added": "13322136145000000",
+            "date_last_used": "0",
+            "guid": "363f59b7-30db-46ac-b06d-ca3a421638be",
+            "id": "46",
+            "name": "A Tale of Springtime - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=X4cYAj4xXYA"
+         }, {
+            "date_added": "13322165735000000",
+            "date_last_used": "0",
+            "guid": "519a2a0a-6f39-46e9-adc9-b900ca8c8cec",
+            "id": "47",
+            "name": "How to Install Arch Linux OS in VirtualBox - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=K4ismsM9U6g"
+         }, {
+            "date_added": "13323717619000000",
+            "date_last_used": "0",
+            "guid": "b9be43e3-4196-41a9-9e75-cddbfc89ae8d",
+            "id": "48",
+            "name": "Pencils.com - High-quality pencils and unique gifts for unique people",
+            "type": "url",
+            "url": "https://pencils.com/"
+         }, {
+            "date_added": "13324240239000000",
+            "date_last_used": "0",
+            "guid": "62a2d979-7ca5-4027-9a02-84dc14807d56",
+            "id": "49",
+            "name": "SFlix | Watch HD Movies Online Free | TV Series & Stream Live",
+            "type": "url",
+            "url": "https://sflix.to/"
+         }, {
+            "date_added": "13324684152000000",
+            "date_last_used": "0",
+            "guid": "0a521592-aa85-49d8-a11b-e03cfb6ed57c",
+            "id": "50",
+            "name": "LifeAt Spaces",
+            "type": "url",
+            "url": "https://lifeat.io/"
+         }, {
+            "date_added": "13324797652000000",
+            "date_last_used": "0",
+            "guid": "d239cb15-6b17-4d68-a44b-8b51464c53d8",
+            "id": "51",
+            "name": "(37) How to Install DWM on Arch Linux - Minimal with No Bloat! Dynamic Window Manager - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=jD8BtmMK0do"
+         }, {
+            "date_added": "13324873268000000",
+            "date_last_used": "0",
+            "guid": "29055fdd-e982-471a-a0e8-91fc266f3455",
+            "id": "52",
+            "name": "‎Who designed this poster?, a list of films by Wenger • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/wenger/list/who-designed-this-poster/"
+         }, {
+            "date_added": "13325572947000000",
+            "date_last_used": "0",
+            "guid": "45cac9c8-a65f-4812-8ef4-515734750173",
+            "id": "53",
+            "name": "[Hacksnation.com] Abdul Bari [All Courses] - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1fuz2EHXZN_mG2H3Dt9FgAHpC6gVDa_xQ"
+         }, {
+            "date_added": "13326927294000000",
+            "date_last_used": "0",
+            "guid": "a6584802-af0e-4e24-a413-d2c9552c16da",
+            "id": "54",
+            "name": "Pikaques",
+            "type": "url",
+            "url": "https://r0y15.github.io/TRINIT_TEAM-PIKACHU_DEV01/"
+         }, {
+            "date_added": "13327789281000000",
+            "date_last_used": "0",
+            "guid": "397d3285-01c5-458a-85ea-61cc74494902",
+            "id": "55",
+            "name": "Abdul Bari courses",
+            "type": "url",
+            "url": "https://mega.nz/folder/1rA2mDrR#CRY0v4IPb-LXlR3AgeTkvg"
+         }, {
+            "date_added": "13327983962000000",
+            "date_last_used": "0",
+            "guid": "a8f50f60-21a1-4a66-bd0d-0e856ab5226d",
+            "id": "56",
+            "name": "(5) Pinterest",
+            "type": "url",
+            "url": "https://in.pinterest.com/pin/8866530507949719/"
+         }, {
+            "date_added": "13328054105000000",
+            "date_last_used": "0",
+            "guid": "b8302cfb-9c6e-4fd2-b2e3-8a96e994a5fa",
+            "id": "57",
+            "name": "The Arch Linux Handbook – Learn Arch Linux for Beginners",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/how-to-install-arch-linux/#how-to-install-xorg"
+         }, {
+            "date_added": "13329384021000000",
+            "date_last_used": "0",
+            "guid": "783f2d1e-efe0-46ed-afc7-7d02966900c5",
+            "id": "58",
+            "name": "Online C++ Compiler ",
+            "type": "url",
+            "url": "https://www.onlinegdb.com/online_c++_compiler"
+         }, {
+            "date_added": "13329806364000000",
+            "date_last_used": "0",
+            "guid": "dc854efa-7318-4c3f-82b3-132e66b70020",
+            "id": "59",
+            "name": "Kaggle: Your Machine Learning and Data Science Community",
+            "type": "url",
+            "url": "https://www.kaggle.com/"
+         }, {
+            "date_added": "13330698823000000",
+            "date_last_used": "0",
+            "guid": "d6e3d382-d9c8-454f-a1d3-06843ec10277",
+            "id": "60",
+            "name": "Nokia C32 with luxurious design and low-light capture",
+            "type": "url",
+            "url": "https://www.nokia.com/phones/en_in/nokia-c-32?sku=SP01Z01Z3225Y"
+         }, {
+            "date_added": "13330859162000000",
+            "date_last_used": "0",
+            "guid": "eb8b6c94-3de5-438c-809a-d05df77afdcb",
+            "id": "61",
+            "name": "Training Courses  |  Android Developers",
+            "type": "url",
+            "url": "https://developer.android.com/courses"
+         }, {
+            "date_added": "13330859177000000",
+            "date_last_used": "0",
+            "guid": "c037fe33-7a49-4a83-a868-b836d75049de",
+            "id": "62",
+            "name": "(200) Android Development Tutorial for Absolute Beginners | Hindi 🔥 | 5 Projects in Android | Announcement - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=u0kmgolU09g&list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb&index=2"
+         }, {
+            "date_added": "13331331581000000",
+            "date_last_used": "0",
+            "guid": "687e0854-193f-4b36-ba1e-1060442d82d3",
+            "id": "63",
+            "name": "‎Weirdo Movies for Beginners, a list of films by ⓞⓛⓘⓥⓔ • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/oliviaolive/list/weirdo-movies-for-beginners/"
+         }, {
+            "date_added": "13331568692000000",
+            "date_last_used": "0",
+            "guid": "9611bb54-f8d9-4a75-b2ea-bd892001f9a2",
+            "id": "64",
+            "name": "cppreference.com",
+            "type": "url",
+            "url": "https://en.cppreference.com/w/"
+         }, {
+            "date_added": "13331568717000000",
+            "date_last_used": "0",
+            "guid": "2bbe9a51-701e-4e28-9dcb-fa1a6806709c",
+            "id": "65",
+            "name": "DevDocs API Documentation",
+            "type": "url",
+            "url": "https://devdocs.io/"
+         }, {
+            "date_added": "13332733823000000",
+            "date_last_used": "0",
+            "guid": "184bfff1-517e-4a39-a15c-7ee32cb1cb07",
+            "id": "66",
+            "name": "Online Transcription Jobs | Apply Today! | GoTranscript",
+            "type": "url",
+            "url": "https://gotranscript.com/transcription-jobs"
+         }, {
+            "date_added": "13332815176000000",
+            "date_last_used": "0",
+            "guid": "550eeb67-8e2e-416d-a564-871cfcbd3ae2",
+            "id": "67",
+            "name": "Monkeytype | A minimalistic, customizable typing test",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13335297316000000",
+            "date_last_used": "0",
+            "guid": "d16a3929-475d-47f5-a339-9a615df8a49e",
+            "id": "68",
+            "name": "FitGirl Repacks - The ONLY official site for FitGirl Repacks. Every single FG repack installer has a link inside, which leads here. Do not fall for fake and scam sites, which are using my name.",
+            "type": "url",
+            "url": "https://fitgirl-repacks.site/"
+         }, {
+            "date_added": "13338068063000000",
+            "date_last_used": "0",
+            "guid": "f964901e-4591-43bb-beac-d0c69f99c433",
+            "id": "69",
+            "name": "Bootstrap Templates | Premium & Free Download | BootstrapMade",
+            "type": "url",
+            "url": "https://bootstrapmade.com/"
+         }, {
+            "date_added": "13339160209000000",
+            "date_last_used": "0",
+            "guid": "b60f39d3-5e41-40a1-a2fb-04fc81337392",
+            "id": "70",
+            "name": "About - Project Euler",
+            "type": "url",
+            "url": "https://projecteuler.net/"
+         }, {
+            "date_added": "13339269028000000",
+            "date_last_used": "0",
+            "guid": "b48d1918-3f77-4a80-b6af-8fec59b79562",
+            "id": "71",
+            "name": "Distance(webcam) Estimation with single-camera 📷 OpenCV-python | by AiPhile | MLearning.ai | Medium",
+            "type": "url",
+            "url": "https://medium.com/mlearning-ai/distance-estimation-with-single-camera-opencv-python-298a96383c2b"
+         }, {
+            "date_added": "13339343700000000",
+            "date_last_used": "0",
+            "guid": "38be68ab-091c-4602-a78d-49e13286bce6",
+            "id": "72",
+            "name": "Cruelty Squad on Steam",
+            "type": "url",
+            "url": "https://store.steampowered.com/app/1388770/Cruelty_Squad/"
+         }, {
+            "date_added": "13339664125000000",
+            "date_last_used": "0",
+            "guid": "567fa97a-d2cd-46c2-a5c2-70b59e621c4a",
+            "id": "73",
+            "name": "(206) You need to focus and not be disturbed when studying, working | lofi hiphop mix/ lofi studying - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=W9q-0tCfvKE"
+         }, {
+            "date_added": "13338203259000000",
+            "date_last_used": "0",
+            "guid": "02da0bd1-8a65-4091-92e0-5643299d96fd",
+            "id": "74",
+            "name": "20 Commands for Newbies Who Switched from Windows to Linux",
+            "type": "url",
+            "url": "https://www.tecmint.com/useful-linux-commands-for-newbies/"
+         }, {
+            "date_added": "13340587083000000",
+            "date_last_used": "0",
+            "guid": "58bec11c-80dc-49e0-b8e1-58919a8cf06b",
+            "id": "75",
+            "name": "Color Palette: #D14D72 #FFABAB #FCC8D1 #FEF2F4 - Color Hunt",
+            "type": "url",
+            "url": "https://colorhunt.co/palette/d14d72ffababfcc8d1fef2f4"
+         }, {
+            "date_added": "13340587350000000",
+            "date_last_used": "0",
+            "guid": "625315ab-0fe9-4d87-83c5-321b813a32cb",
+            "id": "76",
+            "name": "kitty (terminal emulator) - Wikipedia",
+            "type": "url",
+            "url": "https://en.m.wikipedia.org/wiki/Kitty_(terminal_emulator)"
+         }, {
+            "date_added": "13340588273000000",
+            "date_last_used": "0",
+            "guid": "b36f9be0-24e0-442b-8c45-6fd2c808482d",
+            "id": "77",
+            "name": "60+ Artistic Glitch HD Wallpapers and Backgrounds",
+            "type": "url",
+            "url": "https://wall.alphacoders.com/by_sub_category.php?id=241660&name=Glitch+Wallpapers"
+         }, {
+            "date_added": "13342079735000000",
+            "date_last_used": "0",
+            "guid": "e2f56fb9-d316-438a-97f4-ff0c451553bf",
+            "id": "78",
+            "name": "Watch Free Movies Online And Stream Free HD Movies - TinyZone",
+            "type": "url",
+            "url": "https://tinyzonetv.se/"
+         }, {
+            "date_added": "13342082718000000",
+            "date_last_used": "0",
+            "guid": "80397615-96c6-446f-9696-ac2606220208",
+            "id": "79",
+            "name": "Watch Gundam vs Hello Kitty (2019) Full Anime on Zoro.se",
+            "type": "url",
+            "url": "https://w1.zoro.se/anime-watch/gundam-vs-hello-kitty/episode-3.html"
+         }, {
+            "date_added": "13342082729000000",
+            "date_last_used": "0",
+            "guid": "73f81c1c-1158-4009-8731-792e122211bb",
+            "id": "80",
+            "name": "Zoro | Watch Anime Online | English anime Dub, Sub",
+            "type": "url",
+            "url": "https://w1.zoro.se/"
+         }, {
+            "date_added": "13342082994000000",
+            "date_last_used": "0",
+            "guid": "a6bbfe07-94d3-43d4-bb10-53f6439cf561",
+            "id": "81",
+            "name": "nodesource/distributions: NodeSource Node.js Binary Distributions",
+            "type": "url",
+            "url": "https://github.com/nodesource/distributions"
+         }, {
+            "date_added": "13342989246000000",
+            "date_last_used": "0",
+            "guid": "df02e420-1ae7-4055-9d3f-b857fea22c14",
+            "id": "82",
+            "name": "cults Iceberg",
+            "type": "url",
+            "url": "https://www.icebergcharts.com/i/cults"
+         }, {
+            "date_added": "13343494653000000",
+            "date_last_used": "0",
+            "guid": "924bfb39-f58b-4c8c-8351-9c842ff502bc",
+            "id": "83",
+            "name": "",
+            "type": "url",
+            "url": "https://davatorium.github.io/rofi/current/rofi-keys.5/"
+         }, {
+            "date_added": "13343660578000000",
+            "date_last_used": "0",
+            "guid": "c73379b3-736f-42ee-8ef3-cecc40eb75cc",
+            "id": "84",
+            "name": "How to Install Python 3.11 on Linux Mint 21 or 20 - LinuxCapable",
+            "type": "url",
+            "url": "https://www.linuxcapable.com/how-to-install-python-3-11-on-linux-mint/"
+         }, {
+            "date_added": "13343756884000000",
+            "date_last_used": "0",
+            "guid": "6555b62b-c067-4c79-9797-3bcae5d287f2",
+            "id": "85",
+            "name": "UWatchFree300 | Watch 300mb movies and TV-Series Online",
+            "type": "url",
+            "url": "https://uwatchfree300.online/"
+         }, {
+            "date_added": "13343850922000000",
+            "date_last_used": "0",
+            "guid": "4a50889a-08ef-4756-a217-7122be07b829",
+            "id": "86",
+            "name": "The Movie Archive",
+            "type": "url",
+            "url": "https://themoviearchive.site/"
+         }, {
+            "date_added": "13344175766000000",
+            "date_last_used": "0",
+            "guid": "43bf9141-2093-445f-b867-618c5daa4fca",
+            "id": "87",
+            "name": "11 Fun Linux Command-Line Programs You Should Try When Bored",
+            "type": "url",
+            "url": "https://www.makeuseof.com/fun-linux-command-line-programs/"
+         }, {
+            "date_added": "13344190130000000",
+            "date_last_used": "0",
+            "guid": "6986303a-d62a-45cb-9325-4c8116eb4357",
+            "id": "88",
+            "name": "The Ultimate Guide to i3 Customization in Linux",
+            "type": "url",
+            "url": "https://itsfoss.com/i3-customization/#keybindings-of-i3-window-manager"
+         }, {
+            "date_added": "13344191661000000",
+            "date_last_used": "0",
+            "guid": "316a657d-0c01-433b-abf7-4b175d28c506",
+            "id": "89",
+            "name": "The Ultimate Guide to i3 Customization in Linux",
+            "type": "url",
+            "url": "https://itsfoss.com/i3-customization/#use-i3-blocks-in-the-window-manager"
+         }, {
+            "date_added": "13344545185000000",
+            "date_last_used": "0",
+            "guid": "629264a7-b738-454f-955c-691a01763d09",
+            "id": "90",
+            "name": "How to install the ProtonVPN Linux app on Ubuntu 20+",
+            "type": "url",
+            "url": "https://protonvpn.com/support/official-ubuntu-vpn-setup/"
+         }, {
+            "date_added": "13344546201000000",
+            "date_last_used": "0",
+            "guid": "cd0a5691-de1b-489f-b493-8c7c952372c9",
+            "id": "91",
+            "name": "HD wallpaper: gray sculpture illustration, statue, glitch art, vaporwave, blue | Wallpaper Flare",
+            "type": "url",
+            "url": "https://www.wallpaperflare.com/gray-sculpture-illustration-statue-glitch-art-vaporwave-blue-wallpaper-pustp"
+         }, {
+            "date_added": "13345621600000000",
+            "date_last_used": "0",
+            "guid": "09a75793-fca6-469f-8b30-aeedafdec689",
+            "id": "92",
+            "name": "FileCR - THE BIGGEST SOFTWARE STORE",
+            "type": "url",
+            "url": "https://filecr.com/en/?id=966164400002"
+         }, {
+            "date_added": "13345735086000000",
+            "date_last_used": "0",
+            "guid": "9d602f95-9111-4e62-843c-0b7d4d907c2c",
+            "id": "93",
+            "name": "ever",
+            "type": "url",
+            "url": "https://github.com/topics/spicetify-themes?l=css"
+         }, {
+            "date_added": "13346514749000000",
+            "date_last_used": "0",
+            "guid": "78eb96ba-e212-45fb-846b-a233245dc920",
+            "id": "94",
+            "name": "Developer Roadmaps - roadmap.sh",
+            "type": "url",
+            "url": "https://roadmap.sh/"
+         }, {
+            "date_added": "13346840162000000",
+            "date_last_used": "0",
+            "guid": "8f6fedb6-be79-47f9-b1e5-e8fb73fef39d",
+            "id": "95",
+            "name": "Your Career in Web Development Starts Here | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/"
+         }, {
+            "date_added": "13346939166000000",
+            "date_last_used": "0",
+            "guid": "50f8003c-8e11-49f0-9161-0c2dc56123a0",
+            "id": "96",
+            "name": "Installing on Linux — Anaconda documentation",
+            "type": "url",
+            "url": "https://docs.anaconda.com/free/anaconda/install/linux/"
+         }, {
+            "date_added": "13346939173000000",
+            "date_last_used": "0",
+            "guid": "c780ae2b-bc0d-45c5-a1bb-1ef94efa30a6",
+            "id": "97",
+            "name": "PyWhatKit: How to Automate Whatsapp Messages with Python | Better Data Science",
+            "type": "url",
+            "url": "https://betterdatascience.com/pywhatkit-python-whatsapp/"
+         }, {
+            "date_added": "13347196884000000",
+            "date_last_used": "0",
+            "guid": "376063bb-0c9e-46a7-b90f-9f111b4e1865",
+            "id": "98",
+            "name": "Still Life with Flowers and a Watch, Abraham Mignon, c. 1660 - c. 1679 - Bloemen-Collected Works of Harry - All Rijksstudio's - Rijksstudio - Rijksmuseum",
+            "type": "url",
+            "url": "https://www.rijksmuseum.nl/en/my/collections/1692024--harry/bloemen/objecten#/SK-A-268,17"
+         }, {
+            "date_added": "13348212241000000",
+            "date_last_used": "0",
+            "guid": "81d15672-ca7a-4ac9-bd4d-01f253386f3b",
+            "id": "99",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://openai.com/chatgpt"
+         }, {
+            "date_added": "13349008881000000",
+            "date_last_used": "0",
+            "guid": "01bf8a5a-8b36-4a9b-8af3-65a647e9ea4a",
+            "id": "100",
+            "name": "Textures • Poly Haven",
+            "type": "url",
+            "url": "https://polyhaven.com/textures"
+         }, {
+            "date_added": "13349013569000000",
+            "date_last_used": "0",
+            "guid": "ab177b69-f757-4d67-981d-c966895b44ec",
+            "id": "101",
+            "name": "Original paintings — Mark Maggiori",
+            "type": "url",
+            "url": "https://www.markmaggiori.com/paintings"
+         }, {
+            "children": [ {
+               "date_added": "13350079088000000",
+               "date_last_used": "0",
+               "guid": "15d764e9-306c-48ce-bc48-aadeb474fa8d",
+               "id": "103",
+               "name": "How to Configure and Use MPV Video Player | SmartTech101",
+               "type": "url",
+               "url": "https://smarttech101.com/how-to-configure-use-mpv-video-player/"
+            }, {
+               "date_added": "13350347323000000",
+               "date_last_used": "0",
+               "guid": "ef97c830-bb8e-4a08-9e49-13899f3c80cb",
+               "id": "104",
+               "name": "mpv-scripts/youtube-search.lua at master · CogentRedTester/mpv-scripts · GitHub",
+               "type": "url",
+               "url": "https://github.com/CogentRedTester/mpv-scripts/blob/master/youtube-search.lua"
+            }, {
+               "date_added": "13350350223000000",
+               "date_last_used": "0",
+               "guid": "253075b6-98e8-40bd-83ae-ce003b01cb1d",
+               "id": "105",
+               "name": "List of applications - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/list_of_applications"
+            }, {
+               "date_added": "13350351078000000",
+               "date_last_used": "0",
+               "guid": "93070b68-3f2c-46fc-8233-9850a3be7c85",
+               "id": "106",
+               "name": "cmus-tutorial(7) — Arch manual pages",
+               "type": "url",
+               "url": "https://man.archlinux.org/man/cmus-tutorial.7"
+            }, {
+               "date_added": "13350593604000000",
+               "date_last_used": "0",
+               "guid": "babacc62-10aa-4b0d-b7f2-71e6429be07c",
+               "id": "107",
+               "name": "index/tutorials - FirefoxCSS",
+               "type": "url",
+               "url": "https://www.reddit.com/r/FirefoxCSS/wiki/index/tutorials/"
+            }, {
+               "date_added": "13350669897000000",
+               "date_last_used": "0",
+               "guid": "b304570f-9632-49e4-9770-e97beffcf7cb",
+               "id": "108",
+               "name": "Speech Dispatcher required for SpeechSynthesis API | Firefox Help",
+               "type": "url",
+               "url": "https://support.mozilla.org/en-US/kb/speechd-setup?as=u&utm_source=inproduct"
+            }, {
+               "date_added": "13350760938000000",
+               "date_last_used": "0",
+               "guid": "70184171-7670-4485-abd9-9eb0a23bf2b1",
+               "id": "109",
+               "name": "Led Zeppelin Oversized T-shirt | Icarus - Wittee",
+               "type": "url",
+               "url": "https://wittee.in/product/led-zeppelin-oversized-t-shirt-icarus-2/"
+            } ],
+            "date_added": "13423093934883936",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "a493b3c6-ff2d-4cd2-a58e-07347c4c43e4",
+            "id": "102",
+            "name": "linux",
+            "type": "folder"
+         }, {
+            "date_added": "13355826632000000",
+            "date_last_used": "0",
+            "guid": "5ee08f4a-d684-40ae-941f-9d70e6457018",
+            "id": "110",
+            "name": "How to Use Google Drive API in Python - The Python Code",
+            "type": "url",
+            "url": "https://thepythoncode.com/article/using-google-drive--api-in-python"
+         }, {
+            "date_added": "13356122371000000",
+            "date_last_used": "0",
+            "guid": "fc012fbe-e542-49ae-ad90-a6e7c548f0dc",
+            "id": "111",
+            "name": "NWIC",
+            "type": "url",
+            "url": "https://nwic.gov.in/data"
+         }, {
+            "date_added": "13356124607000000",
+            "date_last_used": "0",
+            "guid": "617063da-5a3b-4333-a9f1-f86c96f47187",
+            "id": "112",
+            "name": "Drought Early Warning System | India Drought Monitor",
+            "type": "url",
+            "url": "https://indiadroughtmonitor.in/#/drought-time-series"
+         }, {
+            "date_added": "13356131358000000",
+            "date_last_used": "0",
+            "guid": "e9273f1a-fd5a-46e1-bd3a-a500a3351f06",
+            "id": "113",
+            "name": "Drought Early Warning System | India Drought Monitor",
+            "type": "url",
+            "url": "https://indiadroughtmonitor.in/#/drought-early-warning-system"
+         }, {
+            "date_added": "13356702401000000",
+            "date_last_used": "0",
+            "guid": "80abedf3-33a5-4b67-93d6-075178e44b82",
+            "id": "114",
+            "name": "⌈Ｗｉｒｅｄ　Ｓｏｕｎｄ　ｆｏｒ　Ｗｉｒｅｄ　Ｐｅｏｐｌｅ⌋",
+            "type": "url",
+            "url": "https://fauux.neocities.org/?userID="
+         }, {
+            "date_added": "13356902724000000",
+            "date_last_used": "0",
+            "guid": "356df76f-d813-4abe-8d07-10c874303981",
+            "id": "115",
+            "name": "Binged - Watch Movies & TV Shows Free Without Ads",
+            "type": "url",
+            "url": "https://binged.in/"
+         }, {
+            "date_added": "13356970942000000",
+            "date_last_used": "0",
+            "guid": "1b6a19f9-1937-4dd7-b070-c22335cee228",
+            "id": "116",
+            "name": "megathread/movies_and_tv - Piracy",
+            "type": "url",
+            "url": "https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv/"
+         }, {
+            "date_added": "13357526158000000",
+            "date_last_used": "0",
+            "guid": "69b3207b-5e5e-4eec-868a-f741693e5d25",
+            "id": "117",
+            "name": "Yt-dlp Commands: The Complete Tutorial For Beginners (2024)",
+            "type": "url",
+            "url": "https://ostechnix.com/yt-dlp-tutorial/"
+         }, {
+            "date_added": "13358008367000000",
+            "date_last_used": "0",
+            "guid": "0bd443a6-4bd6-4c14-9280-5f34c06ab200",
+            "id": "118",
+            "name": "VTOP",
+            "type": "url",
+            "url": "https://vtop.vitbhopal.ac.in/vtop/content"
+         }, {
+            "date_added": "13358788601000000",
+            "date_last_used": "0",
+            "guid": "d081d484-27e5-45f4-8655-7e854339a5b3",
+            "id": "119",
+            "name": "criterion collection",
+            "type": "url",
+            "url": "https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw"
+         }, {
+            "date_added": "13358788662000000",
+            "date_last_used": "0",
+            "guid": "94c5c08b-db88-4c65-9fe2-072977eff185",
+            "id": "120",
+            "name": "Cinema of the World",
+            "type": "url",
+            "url": "https://worldscinema.org/"
+         }, {
+            "date_added": "13360427814000000",
+            "date_last_used": "0",
+            "guid": "1301ae68-9ad7-48d7-9d2f-0e5f301f8093",
+            "id": "121",
+            "name": "‎୭ definition of girly classics 🎀 ˚₊· ͟͟͞͞➳❥ , a list of films by liza ✧ • Letterboxd",
+            "type": "url",
+            "url": "https://letterboxd.com/darkestparadise/list/definition-of-girly-classics/"
+         }, {
+            "date_added": "13362084033000000",
+            "date_last_used": "0",
+            "guid": "93e5e893-54a1-4941-b95b-b234a2ae812e",
+            "id": "122",
+            "name": "GitHub - LytixDev/tomatoshell: Pomodoro timer in the shell",
+            "type": "url",
+            "url": "https://github.com/LytixDev/tomatoshell"
+         }, {
+            "date_added": "13362815142000000",
+            "date_last_used": "0",
+            "guid": "d7d7394c-d94b-4efd-b107-108f2cffdf57",
+            "id": "123",
+            "name": "Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices",
+            "type": "url",
+            "url": "https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player"
+         }, {
+            "date_added": "13362825532000000",
+            "date_last_used": "0",
+            "guid": "0f591bd3-86c1-4312-a31e-e0b5c11fcb6f",
+            "id": "124",
+            "name": "Joplin Terminal Application | Joplin",
+            "type": "url",
+            "url": "https://joplinapp.org/help/apps/terminal/"
+         }, {
+            "date_added": "13363029301000000",
+            "date_last_used": "0",
+            "guid": "d22ddbcd-ea12-47e8-bbab-598e32836b13",
+            "id": "125",
+            "name": "Free Faces",
+            "type": "url",
+            "url": "https://www.freefaces.gallery/"
+         }, {
+            "date_added": "13365031057000000",
+            "date_last_used": "0",
+            "guid": "0ce3bcb1-936a-4b5d-ac2b-7cf753ef9da3",
+            "id": "126",
+            "name": "Braflix - Watch TV Shows Online, Watch Movies Online",
+            "type": "url",
+            "url": "https://www.braflix.ru/"
+         }, {
+            "date_added": "13366987909000000",
+            "date_last_used": "0",
+            "guid": "f725abf8-9bf1-4c76-92b2-d6957c198320",
+            "id": "127",
+            "name": "Pyodide — Version 0.26.2",
+            "type": "url",
+            "url": "https://pyodide.org/en/stable/"
+         }, {
+            "date_added": "13366987930000000",
+            "date_last_used": "0",
+            "guid": "1d0ed1f2-6b82-42a6-b3c3-7e20eb881747",
+            "id": "128",
+            "name": "Streamlit cheat sheet · Streamlit",
+            "type": "url",
+            "url": "https://cheat-sheet.streamlit.app/"
+         }, {
+            "date_added": "13367038507000000",
+            "date_last_used": "0",
+            "guid": "ecc084b9-7544-4634-8c24-cba08fa2939e",
+            "id": "129",
+            "name": "daily.dev | Where developers grow together",
+            "type": "url",
+            "url": "https://app.daily.dev/?ua=true"
+         }, {
+            "date_added": "13367058897000000",
+            "date_last_used": "0",
+            "guid": "5d5aa80b-6ebb-4f08-8d54-f21c0aa38ffa",
+            "id": "130",
+            "name": "Brutalist Websites",
+            "type": "url",
+            "url": "https://brutalistwebsites.com/"
+         }, {
+            "date_added": "13367764621000000",
+            "date_last_used": "0",
+            "guid": "96f737c7-2131-4f00-bf01-e29be26252af",
+            "id": "131",
+            "name": "Photographer, director and creative director - Julia Johnson",
+            "type": "url",
+            "url": "https://www.juliajohnson.com/"
+         }, {
+            "date_added": "13367945451000000",
+            "date_last_used": "0",
+            "guid": "77f7e189-4025-4771-a842-aee016634f0a",
+            "id": "132",
+            "name": "Practical Deep Learning for Coders - Practical Deep Learning",
+            "type": "url",
+            "url": "https://course.fast.ai/"
+         }, {
+            "date_added": "13368011124000000",
+            "date_last_used": "0",
+            "guid": "623d0dbf-c939-4861-9304-601fe98739cf",
+            "id": "133",
+            "name": "Use systemd to Start a Linux Service at Boot | Linode Docs",
+            "type": "url",
+            "url": "https://www.linode.com/docs/guides/start-service-at-boot/"
+         }, {
+            "date_added": "13368026165000000",
+            "date_last_used": "0",
+            "guid": "4abc590f-0f1e-4947-a955-0f0f21049523",
+            "id": "134",
+            "name": "Practical Deep Learning for Coders - 1: Getting started",
+            "type": "url",
+            "url": "https://course.fast.ai/Lessons/lesson1.html"
+         }, {
+            "date_added": "13368348493000000",
+            "date_last_used": "0",
+            "guid": "ba648b93-dc3d-4470-82d0-765b49a90d13",
+            "id": "135",
+            "name": "Welcome • freemediaheckyeah",
+            "type": "url",
+            "url": "https://fmhy.net/"
+         }, {
+            "date_added": "13368381121000000",
+            "date_last_used": "0",
+            "guid": "a17b2854-2fe9-48f5-a69e-6b491cff92a5",
+            "id": "136",
+            "name": "Developing an AI Chatbot for Bhopal BRTS Navigation with Multilingual Assistance",
+            "type": "url",
+            "url": "https://arpy8.notion.site/Developing-an-AI-Chatbot-for-Bhopal-BRTS-Navigation-with-Multilingual-Assistance-179b761ee30f40a0892fb850c7ffad93"
+         }, {
+            "date_added": "13368623091000000",
+            "date_last_used": "0",
+            "guid": "2f5ac95b-3d25-4130-9bf3-a465e48a5270",
+            "id": "137",
+            "name": "Alacritty - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Alacritty"
+         }, {
+            "date_added": "13368623233000000",
+            "date_last_used": "0",
+            "guid": "8f12c3f7-d1ae-4121-8e81-a26a34f6ed76",
+            "id": "138",
+            "name": "Starship",
+            "type": "url",
+            "url": "https://starship.rs/"
+         }, {
+            "date_added": "13368645116000000",
+            "date_last_used": "0",
+            "guid": "2cfa487b-9c94-4215-a925-ebbf84ff9010",
+            "id": "139",
+            "name": "GitHub - particleofmass/i3wm_screen_brightness: Map your hot keys to increase or decrease the screen brightness in i3 wm",
+            "type": "url",
+            "url": "https://github.com/particleofmass/i3wm_screen_brightness"
+         }, {
+            "date_added": "13368702573000000",
+            "date_last_used": "0",
+            "guid": "af040980-3d38-4aff-90b6-b90989131bec",
+            "id": "140",
+            "name": "Sejda helps with your PDF tasks",
+            "type": "url",
+            "url": "https://www.sejda.com/"
+         }, {
+            "date_added": "13369324014000000",
+            "date_last_used": "0",
+            "guid": "fc812fb0-4911-4a86-bf62-83059ebd54b6",
+            "id": "141",
+            "name": "Graphical Environment - Termux Wiki",
+            "type": "url",
+            "url": "https://wiki.termux.com/wiki/Graphical_Environment#Enabling_the_X11_Repository"
+         }, {
+            "date_added": "13369867298000000",
+            "date_last_used": "0",
+            "guid": "d9c7fabf-7581-4477-a412-2347f9a6e93f",
+            "id": "142",
+            "name": "Reddit - Dive into anything",
+            "type": "url",
+            "url": "https://www.reddit.com/r/chess/wiki/books/"
+         }, {
+            "date_added": "13370008663000000",
+            "date_last_used": "0",
+            "guid": "5d7a308c-89c2-4053-9c8a-58302ba4e50c",
+            "id": "143",
+            "name": "Prerequisites — mlcourse.ai",
+            "type": "url",
+            "url": "https://mlcourse.ai/book/prereqs/math.html"
+         }, {
+            "date_added": "13370022002000000",
+            "date_last_used": "0",
+            "guid": "e8e5f016-1c0e-42e5-9a39-1b727aeb03ab",
+            "id": "144",
+            "name": "Intro — mlcourse.ai",
+            "type": "url",
+            "url": "https://mlcourse.ai/book/index.html#about-the-course"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13308925297000000",
+                  "date_last_used": "0",
+                  "guid": "7fe6bc25-e39e-492f-97e7-c73610829568",
+                  "id": "147",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13308925297000000",
+                  "date_last_used": "0",
+                  "guid": "d39e2e75-db08-4264-a78a-e642229ded2c",
+                  "id": "148",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13308925297000000",
+                  "date_last_used": "0",
+                  "guid": "12438c1f-2d93-4ac3-ab9f-1adcb833d16d",
+                  "id": "149",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13308925297000000",
+                  "date_last_used": "0",
+                  "guid": "d59ebccf-1a48-42cb-a2a0-20b19e812992",
+                  "id": "150",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13423093934884613",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3fd7a454-701a-4777-a50a-9806482d34a8",
+               "id": "146",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13351101287000000",
+               "date_last_used": "0",
+               "guid": "444c5151-15e4-48b6-bbbf-29a285dd66e4",
+               "id": "151",
+               "name": "‎CHALANACHITRA : CINEMAS OF INDIA, a list of films by I I • Letterboxd",
+               "type": "url",
+               "url": "https://letterboxd.com/bressonsmundane/list/chalanachitra-cinemas-of-india/"
+            }, {
+               "date_added": "13351381647000000",
+               "date_last_used": "0",
+               "guid": "9a317e9c-d9bc-407f-85f2-f0b783cfe8f0",
+               "id": "152",
+               "name": "Home - MOOC.fi",
+               "type": "url",
+               "url": "https://www.mooc.fi/en/#courses"
+            }, {
+               "date_added": "13352081308000000",
+               "date_last_used": "0",
+               "guid": "4adb256b-7caf-4860-a60b-769f93d3c117",
+               "id": "153",
+               "name": "‎classic movies for beginners., a list of films by alanis ྀིྀི • Letterboxd",
+               "type": "url",
+               "url": "https://letterboxd.com/hepburnluv/list/classic-movies-for-beginners/"
+            }, {
+               "date_added": "13352835199000000",
+               "date_last_used": "0",
+               "guid": "aab94bfa-ee9e-4f40-bef4-cba2c909abfa",
+               "id": "154",
+               "name": "Pink Floyd Oversized T-Shirt | Pocket Print - Wittee",
+               "type": "url",
+               "url": "https://wittee.in/product/pink-floyd-oversized-t-shirt-pocket-print/"
+            }, {
+               "date_added": "13353487459000000",
+               "date_last_used": "0",
+               "guid": "07f6fbda-f3bc-4683-8345-ab818ac37b78",
+               "id": "155",
+               "name": "Automatically Change Color Scheme of Your Linux Terminal Based on Your Wallpaper",
+               "type": "url",
+               "url": "https://itsfoss.com/pywal/"
+            }, {
+               "date_added": "13354407721000000",
+               "date_last_used": "0",
+               "guid": "aa0f50f7-40cc-4deb-90c9-3b9b0e0d2e0e",
+               "id": "156",
+               "name": "Installing scikit-learn — scikit-learn 1.4.1 documentation",
+               "type": "url",
+               "url": "https://scikit-learn.org/stable/install.html"
+            }, {
+               "date_added": "13355070741000000",
+               "date_last_used": "0",
+               "guid": "74b38c93-87dd-434b-a71c-ba278edb6e8f",
+               "id": "157",
+               "name": "Reddit - Dive into anything",
+               "type": "url",
+               "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_streaming_sites"
+            }, {
+               "children": [ {
+                  "date_added": "13355152817000000",
+                  "date_last_used": "0",
+                  "guid": "72ba8c48-46cc-4009-bff1-222b17972bda",
+                  "id": "159",
+                  "name": "GTK - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/title/GTK"
+               }, {
+                  "date_added": "13355621219000000",
+                  "date_last_used": "0",
+                  "guid": "61054850-7d88-4400-a3f7-9aa37f1cc074",
+                  "id": "160",
+                  "name": "HAC KAT HON - Poster",
+                  "type": "url",
+                  "url": "https://www.canva.com/design/DAGARkxHzns/fFEbK4Tm578Wl-cm-ZPZCQ/edit"
+               } ],
+               "date_added": "13423093934884804",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3bf5bd44-977e-4268-8e6d-a94243d244ac",
+               "id": "158",
+               "name": "Arch",
+               "type": "folder"
+            } ],
+            "date_added": "13423093934884603",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "8126217e-88d2-4547-a625-2348450d4166",
+            "id": "145",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         }, {
+            "date_added": "13405084392000000",
+            "date_last_used": "0",
+            "guid": "0ae164c1-ee11-4cf9-9728-f58ffe06e51c",
+            "id": "161",
+            "name": "dotfiles/.config/wal/templates/colors-hyprland at master · LierB/dotfiles · GitHub",
+            "type": "url",
+            "url": "https://github.com/LierB/dotfiles/blob/master/.config/wal/templates/colors-hyprland"
+         }, {
+            "date_added": "13406550562000000",
+            "date_last_used": "0",
+            "guid": "510a9950-4a30-4bde-9bf7-61467f0d2a1b",
+            "id": "162",
+            "name": "Writing Documentation and Prose in Markdown Using Helix | Helix Editor Tutorials",
+            "type": "url",
+            "url": "https://helix-editor-tutorials.com/tutorials/writing-documentation-and-prose-in-markdown-using-helix/"
+         }, {
+            "date_added": "13406738004000000",
+            "date_last_used": "0",
+            "guid": "3e6de604-f8e3-4899-897f-ecec9d526e45",
+            "id": "163",
+            "name": "Gemini Models  |  Gemini API  |  Google AI for Developers",
+            "type": "url",
+            "url": "https://ai.google.dev/gemini-api/docs/models#model-variations"
+         }, {
+            "date_added": "13406919937000000",
+            "date_last_used": "0",
+            "guid": "aa28a4dc-3d0c-45e6-b8d3-232c85697473",
+            "id": "164",
+            "name": "Rapunzal Necklace – Jewelsmars",
+            "type": "url",
+            "url": "https://jewelsmars.com/collections/necklace/products/rapunzal-necklace"
+         }, {
+            "date_added": "13407252927000000",
+            "date_last_used": "0",
+            "guid": "a71db971-3f7b-41fa-9685-ce2b2ffaae5f",
+            "id": "165",
+            "name": "Revenant Episode 2 | kisskh",
+            "type": "url",
+            "url": "https://kisskh.ws/Drama/Revenant/Episode-2?id=7483&ep=128906&page=0&pageSize=100"
+         }, {
+            "date_added": "13408923776000000",
+            "date_last_used": "0",
+            "guid": "2e3116f3-27c8-413b-9c4f-7e3c937559d4",
+            "id": "166",
+            "name": "Mermaid Diagrams for Obsidian | by C Jarnach | Level Up Coding",
+            "type": "url",
+            "url": "https://levelup.gitconnected.com/mermaid-diagrams-for-obsidian-note-taking-b022b570e01c"
+         }, {
+            "date_added": "13408965868000000",
+            "date_last_used": "0",
+            "guid": "80500e22-0eac-4851-bc23-e0e3e7a795cd",
+            "id": "167",
+            "name": "Apica CD Lined Ruled Notebook A5 – Bumbo Stationeries",
+            "type": "url",
+            "url": "https://bumbokart.com/products/apica-cd-lined-ruled-notebook-a5?variant=47257008275680"
+         }, {
+            "date_added": "13408966402000000",
+            "date_last_used": "0",
+            "guid": "f1f540d3-fa97-4bb0-9871-0a733687c7c2",
+            "id": "168",
+            "name": "A6 Notebooks | Journals – Adriti's Home",
+            "type": "url",
+            "url": "https://adritishome.in/collections/a6-notebooks-journals"
+         }, {
+            "date_added": "13409930661000000",
+            "date_last_used": "0",
+            "guid": "d48f3759-5e25-45f2-8aeb-c9a1728c4a74",
+            "id": "169",
+            "name": "Linux Reset Network Manager: A Comprehensive Guide — linuxvox.com",
+            "type": "url",
+            "url": "https://linuxvox.com/blog/linux-reset-network-manager/"
+         }, {
+            "date_added": "13410304971000000",
+            "date_last_used": "0",
+            "guid": "8a3ed843-d8b3-4ed5-853a-ff95090dcbbd",
+            "id": "170",
+            "name": "Public Work by Cosmos",
+            "type": "url",
+            "url": "https://www.cosmos.so/public-work/flowers"
+         }, {
+            "date_added": "13410361194000000",
+            "date_last_used": "0",
+            "guid": "143931a5-5b6d-48e1-8e11-37bc1f17185a",
+            "id": "171",
+            "name": "Cineby",
+            "type": "url",
+            "url": "https://www.cineby.gd/"
+         }, {
+            "date_added": "13410484808000000",
+            "date_last_used": "0",
+            "guid": "effae82c-265f-4a47-93fd-28253b81d88c",
+            "id": "172",
+            "name": "Extensions — Blender Extensions",
+            "type": "url",
+            "url": "https://extensions.blender.org/"
+         }, {
+            "date_added": "13410707949000000",
+            "date_last_used": "0",
+            "guid": "3bfa1850-f464-4f6d-869e-f5ad89e92c73",
+            "id": "173",
+            "name": "Terminal Trove - The $HOME of all things in the terminal.",
+            "type": "url",
+            "url": "https://terminaltrove.com/"
+         }, {
+            "date_added": "13411600334000000",
+            "date_last_used": "0",
+            "guid": "6c2eb540-81b0-425f-9d8f-83febca81c5b",
+            "id": "174",
+            "name": "homeserver",
+            "type": "url",
+            "url": "http://10.125.48.49:8096/web/#/home"
+         }, {
+            "date_added": "13384683988000000",
+            "date_last_used": "0",
+            "guid": "d53767fc-2f1a-4306-90c4-7f7f8163d395",
+            "id": "175",
+            "name": "Bar recommendations for a total noob : r/hyprland",
+            "type": "url",
+            "url": "https://www.reddit.com/r/hyprland/comments/1fxmdgz/bar_recommendations_for_a_total_noob/"
+         }, {
+            "date_added": "13384697296000000",
+            "date_last_used": "0",
+            "guid": "a249f42b-e247-45d0-8114-5bce0d9c95d5",
+            "id": "176",
+            "name": "Multi-GPU – Hyprland Wiki",
+            "type": "url",
+            "url": "https://wiki.hyprland.org/Configuring/Multi-GPU/"
+         }, {
+            "date_added": "13384734038000000",
+            "date_last_used": "0",
+            "guid": "4c3203df-ed4f-49e2-934d-1bef60d25f87",
+            "id": "177",
+            "name": "Gemini API  |  Google AI for Developers",
+            "type": "url",
+            "url": "https://ai.google.dev/gemini-api/docs"
+         }, {
+            "date_added": "13384736578000000",
+            "date_last_used": "0",
+            "guid": "27db4ea5-1662-4967-9c2d-1c98314c6cdd",
+            "id": "178",
+            "name": "Build a Retrieval Augmented Generation (RAG) App: Part 1 | 🦜️🔗 LangChain",
+            "type": "url",
+            "url": "https://python.langchain.com/docs/tutorials/rag/"
+         }, {
+            "date_added": "13384737256000000",
+            "date_last_used": "0",
+            "guid": "8ed351ef-ebd6-4d24-92f2-672843b289c6",
+            "id": "179",
+            "name": "Course: 100 Days of Code: The Complete Python Pro Bootcamp | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview"
+         }, {
+            "date_added": "13384994298000000",
+            "date_last_used": "0",
+            "guid": "b4ff9d1f-97f8-49d8-8767-1ab685273079",
+            "id": "180",
+            "name": "[SOLVED] iwd works but NetworkManager doesn't / Newbie Corner / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=292603"
+         }, {
+            "date_added": "13385062983000000",
+            "date_last_used": "0",
+            "guid": "da2906e6-d2cc-45a7-87ef-3a66b878eb1b",
+            "id": "181",
+            "name": "How to install, configure and customize Waybar on Linux - LinuxConfig",
+            "type": "url",
+            "url": "https://linuxconfig.org/how-to-install-configure-and-customize-waybar-on-linux"
+         }, {
+            "date_added": "13373475090000000",
+            "date_last_used": "0",
+            "guid": "246a7f94-d71e-4359-94a6-5cb4788b760f",
+            "id": "182",
+            "name": "Install Arch Linux on a removable medium - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium"
+         }, {
+            "date_added": "13373654810000000",
+            "date_last_used": "0",
+            "guid": "9ae4237d-8a95-45a8-9df8-184f61dbaf01",
+            "id": "183",
+            "name": "Installation | Spicetify",
+            "type": "url",
+            "url": "https://spicetify.app/docs/advanced-usage/installation/"
+         }, {
+            "date_added": "13382914619000000",
+            "date_last_used": "0",
+            "guid": "72eb97d4-8d6f-441f-bd29-88b14c24d66a",
+            "id": "184",
+            "name": "Tetris Effect Free Download (v1.0.6) » SteamRIP",
+            "type": "url",
+            "url": "https://steamrip.com/tetris-effect-free-download-t6/"
+         }, {
+            "date_added": "13385347694000000",
+            "date_last_used": "0",
+            "guid": "060c772c-2eff-4a79-8ba9-12daa196d2d1",
+            "id": "185",
+            "name": "VIT Bhopal - VTOP",
+            "type": "url",
+            "url": "https://vtop.vitbhopal.ac.in/vtop/login"
+         }, {
+            "date_added": "13399046660000000",
+            "date_last_used": "0",
+            "guid": "edbf70f9-176b-4187-83bb-3ee011879d58",
+            "id": "186",
+            "name": "P-Stream",
+            "type": "url",
+            "url": "https://pstream.mov/"
+         }, {
+            "date_added": "13412509903000000",
+            "date_last_used": "0",
+            "guid": "e8739858-9525-4d9d-a5a8-d2b3e8d0e0c7",
+            "id": "187",
+            "name": "Frutiger Aero Archive - Asadal Stock Images Wallpapers",
+            "type": "url",
+            "url": "https://frutigeraeroarchive.org/wallpapers"
+         }, {
+            "date_added": "13412521758000000",
+            "date_last_used": "0",
+            "guid": "d77f1a76-1d1d-46e3-886c-188b4a71f5f7",
+            "id": "188",
+            "name": "SOLVE GRUB NOT FINDING WINDOWS",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=288599"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13412435156000000",
+                  "date_last_used": "0",
+                  "guid": "15823ef7-b4de-4d30-b33a-45f7fe3c6a63",
+                  "id": "191",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13412435156000000",
+                  "date_last_used": "0",
+                  "guid": "de4d3340-31dd-4185-be0b-40a083638524",
+                  "id": "192",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13412435156000000",
+                  "date_last_used": "0",
+                  "guid": "f5cebf7b-187c-4fc1-8cf3-46ee8c9adc9e",
+                  "id": "193",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13412435156000000",
+                  "date_last_used": "0",
+                  "guid": "f2ba5c93-ba8e-450c-9590-4cb0f9ad034f",
+                  "id": "194",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13423093934885292",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d8c2632e-a212-4009-8ac0-b3169eedb78e",
+               "id": "190",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13351101287000000",
+               "date_last_used": "0",
+               "guid": "8d4f0d6a-a9f7-45b9-b5aa-4360a01a5587",
+               "id": "195",
+               "name": "‎CHALANACHITRA : CINEMAS OF INDIA, a list of films by I I • Letterboxd",
+               "type": "url",
+               "url": "https://letterboxd.com/bressonsmundane/list/chalanachitra-cinemas-of-india/"
+            }, {
+               "date_added": "13351381647000000",
+               "date_last_used": "0",
+               "guid": "1b330a9b-b622-4565-94b9-f2977b3c9b7a",
+               "id": "196",
+               "name": "Home - MOOC.fi",
+               "type": "url",
+               "url": "https://www.mooc.fi/en/#courses"
+            }, {
+               "date_added": "13352081308000000",
+               "date_last_used": "0",
+               "guid": "8b055de2-3941-4a96-bb84-ee6bcbcc7357",
+               "id": "197",
+               "name": "‎classic movies for beginners., a list of films by alanis ྀིྀི • Letterboxd",
+               "type": "url",
+               "url": "https://letterboxd.com/hepburnluv/list/classic-movies-for-beginners/"
+            }, {
+               "date_added": "13352835199000000",
+               "date_last_used": "0",
+               "guid": "d46d1810-d4f7-41dd-a228-f40fa6845094",
+               "id": "198",
+               "name": "Pink Floyd Oversized T-Shirt | Pocket Print - Wittee",
+               "type": "url",
+               "url": "https://wittee.in/product/pink-floyd-oversized-t-shirt-pocket-print/"
+            }, {
+               "date_added": "13353482409000000",
+               "date_last_used": "0",
+               "guid": "569df9b2-e9dc-40fe-ae3b-edaa12a90fcb",
+               "id": "199",
+               "name": "Automatically Change Color Scheme of Your Linux Terminal Based on Your Wallpaper",
+               "type": "url",
+               "url": "https://itsfoss.com/pywal/"
+            }, {
+               "date_added": "13354407721000000",
+               "date_last_used": "0",
+               "guid": "1515bba1-2a2c-4304-8dbc-d9bb454510ab",
+               "id": "200",
+               "name": "Installing scikit-learn — scikit-learn 1.4.1 documentation",
+               "type": "url",
+               "url": "https://scikit-learn.org/stable/install.html"
+            }, {
+               "date_added": "13355051840000000",
+               "date_last_used": "0",
+               "guid": "2ab4bc0a-619e-4d0d-9ced-85c592221075",
+               "id": "201",
+               "name": "Reddit - Dive into anything",
+               "type": "url",
+               "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_streaming_sites"
+            }, {
+               "children": [ {
+                  "date_added": "13355152817000000",
+                  "date_last_used": "0",
+                  "guid": "9009b277-9c71-4ff1-826c-a2dc97770068",
+                  "id": "203",
+                  "name": "GTK - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/title/GTK"
+               }, {
+                  "date_added": "13355621219000000",
+                  "date_last_used": "0",
+                  "guid": "6708a53f-2c82-4f4b-8ddc-bd96d87dcfcf",
+                  "id": "204",
+                  "name": "HAC KAT HON - Poster",
+                  "type": "url",
+                  "url": "https://www.canva.com/design/DAGARkxHzns/fFEbK4Tm578Wl-cm-ZPZCQ/edit"
+               } ],
+               "date_added": "13423093934885434",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d1cdb34d-3faa-4918-9b91-bb99ca65633f",
+               "id": "202",
+               "name": "Arch",
+               "type": "folder"
+            } ],
+            "date_added": "13423093934885287",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "c91bf847-44b3-40a6-8ee1-78b382a3286f",
+            "id": "189",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "date_added": "13414277866000000",
+            "date_last_used": "0",
+            "guid": "060966ad-a892-45cb-944e-bee6ada57822",
+            "id": "205",
+            "name": "A free online course - Elements of AI",
+            "type": "url",
+            "url": "https://course.elementsofai.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13370123857000000",
+                  "date_last_used": "0",
+                  "guid": "4f985b97-97cf-40fa-98d3-26f9439a78ad",
+                  "id": "208",
+                  "name": "The Kabir Project | Srishti Manipal Institute of Art, Design and Technology",
+                  "type": "url",
+                  "url": "http://srishtimanipalinstitute.in/centers-and-labs/the-kabir-project.html"
+               }, {
+                  "date_added": "13370312706000000",
+                  "date_last_used": "0",
+                  "guid": "5d775aba-b499-4f11-b28a-c1e5175f04fe",
+                  "id": "209",
+                  "name": "Public Work by Cosmos",
+                  "type": "url",
+                  "url": "https://public.work/"
+               }, {
+                  "date_added": "13370364866000000",
+                  "date_last_used": "0",
+                  "guid": "78960960-33f0-4b8d-a7f7-bff64fe06543",
+                  "id": "210",
+                  "name": "Add a heading - Website",
+                  "type": "url",
+                  "url": "https://www.canva.com/design/DAGQRp96qyg/iceyd_R5HcSejCoWTu65vg/edit"
+               }, {
+                  "date_added": "13370454987000000",
+                  "date_last_used": "0",
+                  "guid": "560c0f33-6c72-4d8b-b238-26b8345d6b2d",
+                  "id": "211",
+                  "name": "3D Models for Free - Free3D.com",
+                  "type": "url",
+                  "url": "https://free3d.com/"
+               }, {
+                  "date_added": "13370547114000000",
+                  "date_last_used": "0",
+                  "guid": "2e60c5c7-1c7d-4960-bcb9-6ab6cc389fd4",
+                  "id": "212",
+                  "name": "Streamlit • A faster way to build and share data apps",
+                  "type": "url",
+                  "url": "https://streamlit.io/"
+               }, {
+                  "date_added": "13370781818000000",
+                  "date_last_used": "0",
+                  "guid": "7c8240c7-439a-424e-bfe9-414f272ea08c",
+                  "id": "213",
+                  "name": "Sprint",
+                  "type": "url",
+                  "url": "https://www.notion.so/Sprint-7bd9dfcc98db47b8bee6e9cb68c0a66c"
+               }, {
+                  "date_added": "13370953951000000",
+                  "date_last_used": "0",
+                  "guid": "b5d071f9-0c55-408a-a062-7c7259de6d3a",
+                  "id": "214",
+                  "name": "ambientCG - CC0 Textures, HDRIs and Models",
+                  "type": "url",
+                  "url": "https://ambientcg.com/"
+               }, {
+                  "date_added": "13371171563000000",
+                  "date_last_used": "0",
+                  "guid": "aef81597-ab8f-4f19-a88e-2e9977cfb0fd",
+                  "id": "215",
+                  "name": "Find the Perfect Icon for Your Project | Font Awesome",
+                  "type": "url",
+                  "url": "https://fontawesome.com/"
+               }, {
+                  "date_added": "13371222812000000",
+                  "date_last_used": "0",
+                  "guid": "3f935b39-3dcf-4fff-9578-9f7546da8fbf",
+                  "id": "216",
+                  "name": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+                  "type": "url",
+                  "url": "https://www.flaticon.com/"
+               }, {
+                  "date_added": "13371726631000000",
+                  "date_last_used": "0",
+                  "guid": "c486d588-ff32-48cd-b958-8e2ad7e18685",
+                  "id": "217",
+                  "name": "scikit-learn: machine learning in Python — scikit-learn 1.5.2 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/1.5/index.html"
+               }, {
+                  "date_added": "13371799467000000",
+                  "date_last_used": "0",
+                  "guid": "27381ca7-ad80-41b7-86f0-3dd3e089e9a6",
+                  "id": "218",
+                  "name": "Final theory discussion post for Introductory reading list : r/IndianLeft",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/IndianLeft/comments/1chrvar/final_theory_discussion_post_for_introductory/?share_id=IKNHE7QOvkElYWNDOmOBb&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1"
+               }, {
+                  "date_added": "13372892308000000",
+                  "date_last_used": "0",
+                  "guid": "aa73c7e5-4210-433d-b17d-ad07611d30f7",
+                  "id": "219",
+                  "name": "Swissted",
+                  "type": "url",
+                  "url": "https://www.swissted.com/"
+               }, {
+                  "date_added": "13373290518000000",
+                  "date_last_used": "0",
+                  "guid": "cfe20eef-9cf7-4390-9b5e-69733ad4fea8",
+                  "id": "220",
+                  "name": "About this course - Python Programming MOOC 2024",
+                  "type": "url",
+                  "url": "https://programming-24.mooc.fi/"
+               } ],
+               "date_added": "13423093934885480",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "efc96552-1ec0-44b0-8c5e-faeb823f89d5",
+               "id": "207",
+               "name": "Other bookmarks",
+               "type": "folder"
+            }, {
+               "date_added": "13424387003314369",
+               "date_last_used": "13424397269046740",
+               "guid": "8578b3c5-7488-42f6-97a3-9faef6fa000a",
+               "id": "222",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "New India in a Matchbox — Google Arts & Culture",
+               "type": "url",
+               "url": "https://artsandculture.google.com/story/new-india-in-a-matchbox-tasveer-ghar/nAVxk6SORHLICg?hl=en"
+            }, {
+               "date_added": "13424395675089289",
+               "date_last_used": "0",
+               "guid": "b8bc25c5-241d-43a3-a6a8-ed998e22d4cf",
+               "id": "223",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Resource Boy - Free Graphic Design Resources / Assets",
+               "type": "url",
+               "url": "https://resourceboy.com/"
+            } ],
+            "date_added": "13423093934885475",
+            "date_last_used": "0",
+            "date_modified": "13424395675089289",
+            "guid": "6e910f1b-9b16-4a76-990d-f42aff2f3d13",
+            "id": "206",
+            "name": "Imported from Brave",
+            "type": "folder"
+         } ],
+         "date_added": "13423093875417395",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13423093875417395",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13423093875417395",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

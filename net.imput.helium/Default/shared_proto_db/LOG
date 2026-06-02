@@ -1,0 +1,6 @@
+2026/06/02-23:53:05.537 365a Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/shared_proto_db/MANIFEST-000001
+2026/06/02-23:53:05.538 365a Recovering log #3
+2026/06/02-23:53:05.540 365a Reusing old log /home/rishav/.config/net.imput.helium/Default/shared_proto_db/000003.log 
+2026/06/02-23:53:05.664 365a Level-0 table #5: started
+2026/06/02-23:53:05.666 365a Level-0 table #5: 130634 bytes OK
+2026/06/02-23:53:05.668 365a Delete type=0 #3

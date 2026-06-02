@@ -1,0 +1,15 @@
+2026/05/28-00:55:29.272 a38 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/28-00:55:29.272 a38 Recovering log #6
+2026/05/28-00:55:29.281 a38 Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000006.log 
+2026/05/28-03:49:58.477 a38 Level-0 table #11: started
+2026/05/28-03:49:58.509 a38 Level-0 table #11: 1712562 bytes OK
+2026/05/28-03:49:58.511 a38 Delete type=0 #6
+2026/05/28-03:49:58.512 a38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/05/28-03:49:58.512 a38 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0f\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 10345 : 1
+2026/05/28-03:49:58.512 a38 Compacting 1@1 + 1@2 files
+2026/05/28-03:49:58.523 a38 Generated table #12@1: 668 keys, 73441 bytes
+2026/05/28-03:49:58.524 a38 Compacted 1@1 + 1@2 files => 73441 bytes
+2026/05/28-03:49:58.525 a38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/28-03:49:58.526 a38 Delete type=2 #8
+2026/05/28-03:49:58.526 a38 Delete type=2 #11
+2026/05/28-03:49:58.527 a38 Manual compaction at level-1 from '\x00\x0f\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 10345 : 1 .. (end); will stop at (end)

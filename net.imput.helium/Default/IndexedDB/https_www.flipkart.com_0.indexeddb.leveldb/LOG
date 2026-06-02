@@ -1,0 +1,51 @@
+2026/06/02-23:53:43.102 365a Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/02-23:53:43.103 365a Recovering log #135
+2026/06/02-23:53:43.114 365a Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/000135.log 
+2026/06/02-23:53:53.421 365b Level-0 table #140: started
+2026/06/02-23:53:53.444 365b Level-0 table #140: 2825138 bytes OK
+2026/06/02-23:53:53.448 365b Delete type=0 #135
+2026/06/02-23:54:11.514 365a Compacting 1@1 + 1@2 files
+2026/06/02-23:54:11.534 365a Generated table #141@1: 667 keys, 1151037 bytes
+2026/06/02-23:54:11.535 365a Compacted 1@1 + 1@2 files => 1151037 bytes
+2026/06/02-23:54:11.537 365a compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/02-23:54:11.537 365a Delete type=2 #140
+2026/06/02-23:54:11.537 365a Delete type=2 #137
+2026/06/02-23:55:12.100 365b Level-0 table #143: started
+2026/06/02-23:55:12.123 365b Level-0 table #143: 2099619 bytes OK
+2026/06/02-23:55:12.125 365b Delete type=0 #139
+2026/06/02-23:55:20.968 365b Compacting 1@1 + 1@2 files
+2026/06/02-23:55:20.984 365b Generated table #144@1: 722 keys, 1242567 bytes
+2026/06/02-23:55:20.984 365b Compacted 1@1 + 1@2 files => 1242567 bytes
+2026/06/02-23:55:20.985 365b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/02-23:55:20.985 365b Delete type=2 #143
+2026/06/02-23:55:20.985 365b Delete type=2 #141
+2026/06/02-23:57:53.649 365b Level-0 table #146: started
+2026/06/02-23:57:53.670 365b Level-0 table #146: 2206497 bytes OK
+2026/06/02-23:57:53.676 365b Delete type=0 #142
+2026/06/03-00:06:27.807 365b Compacting 1@1 + 1@2 files
+2026/06/03-00:06:27.824 365b Generated table #147@1: 345 keys, 584202 bytes
+2026/06/03-00:06:27.824 365b Compacted 1@1 + 1@2 files => 584202 bytes
+2026/06/03-00:06:27.826 365b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/03-00:06:27.826 365b Delete type=2 #144
+2026/06/03-00:06:27.826 365b Delete type=2 #146
+2026/06/03-00:06:37.637 365a Level-0 table #149: started
+2026/06/03-00:06:37.659 365a Level-0 table #149: 2190306 bytes OK
+2026/06/03-00:06:37.667 365a Delete type=0 #145
+2026/06/03-01:39:37.208 365a Compacting 1@1 + 1@2 files
+2026/06/03-01:39:37.224 365a Generated table #150@1: 89 keys, 13303 bytes
+2026/06/03-01:39:37.224 365a Compacted 1@1 + 1@2 files => 13303 bytes
+2026/06/03-01:39:37.235 365a compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/03-01:39:37.235 365a Delete type=2 #149
+2026/06/03-01:39:37.235 365a Delete type=2 #147
+2026/06/03-01:41:13.104 365b Level-0 table #152: started
+2026/06/03-01:41:13.125 365b Level-0 table #152: 2436038 bytes OK
+2026/06/03-01:41:13.127 365b Delete type=0 #148
+2026/06/03-01:41:54.264 365b Compacting 1@1 + 1@2 files
+2026/06/03-01:41:54.278 365b Generated table #153@1: 454 keys, 713885 bytes
+2026/06/03-01:41:54.278 365b Compacted 1@1 + 1@2 files => 713885 bytes
+2026/06/03-01:41:54.280 365b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/03-01:41:54.280 365b Delete type=2 #150
+2026/06/03-01:41:54.280 365b Delete type=2 #152
+2026/06/03-01:42:27.184 365b Level-0 table #155: started
+2026/06/03-01:42:27.205 365b Level-0 table #155: 2728302 bytes OK
+2026/06/03-01:42:27.209 365b Delete type=0 #151

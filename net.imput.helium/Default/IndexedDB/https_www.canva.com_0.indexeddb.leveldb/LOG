@@ -1,0 +1,12 @@
+2026/06/02-21:56:47.502 131e Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/02-21:56:47.502 131e Recovering log #296
+2026/06/02-21:56:47.523 131e Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000296.log 
+2026/06/02-21:57:26.809 131f Level-0 table #301: started
+2026/06/02-21:57:26.829 131f Level-0 table #301: 2227318 bytes OK
+2026/06/02-21:57:26.832 131f Delete type=0 #296
+2026/06/02-21:57:27.785 131f Compacting 1@1 + 1@2 files
+2026/06/02-21:57:27.795 131f Generated table #302@1: 1428 keys, 332059 bytes
+2026/06/02-21:57:27.795 131f Compacted 1@1 + 1@2 files => 332059 bytes
+2026/06/02-21:57:27.796 131f compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/02-21:57:27.796 131f Delete type=2 #301
+2026/06/02-21:57:27.796 131f Delete type=2 #298

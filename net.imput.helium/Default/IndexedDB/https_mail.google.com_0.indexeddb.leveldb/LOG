@@ -1,0 +1,6 @@
+2026/05/28-10:52:48.180 a39 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/28-10:52:48.180 a39 Recovering log #3
+2026/05/28-10:52:48.180 a39 Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2026/05/28-10:53:16.843 a39 Level-0 table #5: started
+2026/05/28-10:53:16.864 a39 Level-0 table #5: 3159909 bytes OK
+2026/05/28-10:53:16.867 a39 Delete type=0 #3

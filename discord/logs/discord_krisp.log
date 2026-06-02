@@ -1,0 +1,57 @@
+[2026-Apr-26 02:48:34.095 +05:30][ 5584: 5584][info ] Logging initialized
+[2026-Apr-26 02:48:34.096 +05:30][ 5584: 5584][info ] Initializing krisp SDK...
+[2026-Apr-26 02:48:34.096 +05:30][ 5584: 5584][info ] DoKrispInitialize
+[2026-Apr-26 02:48:34.405 +05:30][ 5584: 5584][info ] LoadDynamicKrisp
+[2026-Apr-26 02:48:34.405 +05:30][ 5584: 5584][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-Apr-26 02:48:34.405 +05:30][ 5584: 5584][info ] Initializing Krisp SDK in PID 5584, addr 0x7f1c6f16d050
+[2026-Apr-26 02:48:34.406 +05:30][ 5584: 5584][info ] Initialized Krisp SDK successfully
+[2026-Apr-26 02:48:34.406 +05:30][ 5584: 5584][info ] Krisp SDK initialized
+[2026-Apr-27 23:15:10.314 +05:30][26402:26402][info ] Logging initialized
+[2026-Apr-27 23:15:10.314 +05:30][26402:26402][info ] Initializing krisp SDK...
+[2026-Apr-27 23:15:10.315 +05:30][26402:26402][info ] DoKrispInitialize
+[2026-Apr-27 23:15:10.666 +05:30][26402:26402][info ] LoadDynamicKrisp
+[2026-Apr-27 23:15:10.666 +05:30][26402:26402][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-Apr-27 23:15:10.666 +05:30][26402:26402][info ] Initializing Krisp SDK in PID 26402, addr 0x7fe56c77d050
+[2026-Apr-27 23:15:10.668 +05:30][26402:26402][info ] Initialized Krisp SDK successfully
+[2026-Apr-27 23:15:10.668 +05:30][26402:26402][info ] Krisp SDK initialized
+[2026-Apr-27 23:15:12.391 +05:30][26402:26402][info ] Logging initialized
+[2026-Apr-27 23:15:12.391 +05:30][26402:26402][info ] Initializing krisp SDK...
+[2026-Apr-27 23:15:12.391 +05:30][26402:26402][info ] Krisp SDK initialized
+[2026-Apr-27 23:16:06.766 +05:30][26402:26769][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2026-Apr-27 23:16:06.766 +05:30][26402:26769][info ] Setting Krisp model: full_NC
+[2026-Apr-27 23:16:06.805 +05:30][26402:26769][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-Apr-27 23:16:12.376 +05:30][26402:26769][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-Apr-27 23:16:12.873 +05:30][26402:26742][info ] KrispVADReset
+[2026-Apr-27 23:16:12.889 +05:30][26402:26769][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-Apr-27 23:16:32.421 +05:30][26402:26742][info ] KrispVADReset
+[2026-Apr-27 23:16:32.447 +05:30][26402:26769][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-Apr-27 23:16:34.876 +05:30][26402:26742][info ] KrispVADReset
+[2026-Apr-27 23:56:39.139 +05:30][26402:26742][info ] KrispVADReset
+[2026-Apr-28 18:28:12.778 +05:30][10528:10528][info ] Logging initialized
+[2026-Apr-28 18:28:12.778 +05:30][10528:10528][info ] Initializing krisp SDK...
+[2026-Apr-28 18:28:12.779 +05:30][10528:10528][info ] DoKrispInitialize
+[2026-Apr-28 18:28:13.131 +05:30][10528:10528][info ] LoadDynamicKrisp
+[2026-Apr-28 18:28:13.131 +05:30][10528:10528][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-Apr-28 18:28:13.131 +05:30][10528:10528][info ] Initializing Krisp SDK in PID 10528, addr 0x7f78d577d050
+[2026-Apr-28 18:28:13.133 +05:30][10528:10528][info ] Initialized Krisp SDK successfully
+[2026-Apr-28 18:28:13.133 +05:30][10528:10528][info ] Krisp SDK initialized
+[2026-Apr-28 18:28:25.306 +05:30][10528:10587][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2026-Apr-28 18:28:25.306 +05:30][10528:10587][info ] Setting Krisp model: full_NC
+[2026-Apr-28 18:28:25.352 +05:30][10528:10587][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-Apr-28 18:28:30.624 +05:30][10528:10566][info ] KrispVADReset
+[2026-May-02 23:32:43.862 +05:30][ 1619: 1619][info ] Logging initialized
+[2026-May-02 23:32:43.862 +05:30][ 1619: 1619][info ] Initializing krisp SDK...
+[2026-May-02 23:32:43.862 +05:30][ 1619: 1619][info ] DoKrispInitialize
+[2026-May-02 23:32:44.216 +05:30][ 1619: 1619][info ] LoadDynamicKrisp
+[2026-May-02 23:32:44.216 +05:30][ 1619: 1619][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2026-May-02 23:32:44.216 +05:30][ 1619: 1619][info ] Initializing Krisp SDK in PID 1619, addr 0x7f098b37d050
+[2026-May-02 23:32:44.217 +05:30][ 1619: 1619][info ] Initialized Krisp SDK successfully
+[2026-May-02 23:32:44.217 +05:30][ 1619: 1619][info ] Krisp SDK initialized
+[2026-May-02 23:33:12.572 +05:30][ 1619: 1677][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2026-May-02 23:33:12.572 +05:30][ 1619: 1677][info ] Setting Krisp model: full_NC
+[2026-May-02 23:33:12.610 +05:30][ 1619: 1677][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-May-02 23:43:48.090 +05:30][ 1619: 1677][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-May-02 23:43:48.983 +05:30][ 1619: 1648][info ] KrispVADReset
+[2026-May-03 02:35:17.643 +05:30][ 1619: 1677][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2026-May-03 02:35:35.147 +05:30][ 1619: 1648][info ] KrispVADReset
+[2026-May-03 03:33:06.454 +05:30][ 1619: 1648][info ] KrispVADReset

@@ -1,0 +1,17 @@
+2026/05/16-03:11:44.659 6ff Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/16-03:11:44.660 6ff Recovering log #4
+2026/05/16-03:11:44.660 6ff Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/000004.log 
+2026/05/16-03:11:45.055 6ff Level-0 table #8: started
+2026/05/16-03:11:45.056 6ff Level-0 table #8: 15306 bytes OK
+2026/05/16-03:11:45.058 6ff Delete type=0 #4
+2026/05/16-03:11:45.058 6ff Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/16-03:12:04.198 6ff Level-0 table #10: started
+2026/05/16-03:12:04.201 6ff Level-0 table #10: 28774 bytes OK
+2026/05/16-03:12:04.203 6ff Delete type=0 #7
+2026/05/16-03:12:04.203 6ff Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 546 : 1
+2026/05/16-03:12:04.203 6ff Compacting 1@0 + 1@1 files
+2026/05/16-03:12:04.205 6ff Generated table #11@0: 106 keys, 16491 bytes
+2026/05/16-03:12:04.205 6ff Compacted 1@0 + 1@1 files => 16491 bytes
+2026/05/16-03:12:04.208 6ff compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/16-03:12:04.208 6ff Delete type=2 #10
+2026/05/16-03:12:04.208 6ff Manual compaction at level-0 from '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 546 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

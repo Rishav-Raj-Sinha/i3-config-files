@@ -37,6 +37,9 @@ exec --no-startup-id picom
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 
+# bluetooth applet
+exec --no-startup-id blueman-applet
+
 #wallpaper
 #exec --no-startup-id nitrogen --restore &
 
@@ -44,13 +47,17 @@ exec --no-startup-id nm-applet
 exec_always --no-startup-id ~/wallpaer.sh
 
 #bluelight filter
-exec --no-startup-id redshift -l 23.259933:77.412613
+exec --no-startup-id redshift -l 25.612677:85.158875
 
 #screenshot utility flameshot
 exec --no-startup-id flameshot
 
 #notification daemon
 exec --no-startup-id dunst
+
+#input-leap
+exec --no-startup-id  input-leaps --config ~/.config/InputLeap/serve.conf --disable-crypto
+
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
@@ -264,8 +271,12 @@ exec --no-startup-id greenclip daemon>/dev/null
 bindsym $mod+c exec --no-startup-id rofi -modi "clipboard:greenclip print" -show clipboard
 
 #gaps
-gaps inner 5px
+gaps inner 10px
 gaps outer 5px
 
-#default_border pixel 2
-default_border normal 0
+default_border pixel 3
+#default_border normal 0
+
+#brightness
+bindsym $mod+F6 exec brightnessctl s +5%
+bindsym $mod+F5 exec brightnessctl s 5%-

@@ -1,0 +1,18 @@
+2026/03/17-11:22:36.140 e90 Reusing MANIFEST /home/rishav/.config/Docker Desktop/Local Storage/leveldb/MANIFEST-000001
+2026/03/17-11:22:36.146 e90 Recovering log #29
+2026/03/17-11:22:36.146 e90 Reusing old log /home/rishav/.config/Docker Desktop/Local Storage/leveldb/000029.log 
+2026/03/17-11:40:36.657 f14 Level-0 table #33: started
+2026/03/17-11:40:36.673 f14 Level-0 table #33: 13782 bytes OK
+2026/03/17-11:40:36.685 f14 Delete type=0 #29
+2026/03/17-12:22:36.656 e90 Level-0 table #35: started
+2026/03/17-12:22:36.667 e90 Level-0 table #35: 13667 bytes OK
+2026/03/17-12:22:36.674 e90 Delete type=0 #32
+2026/03/17-12:22:36.674 e90 Compacting 4@0 + 1@1 files
+2026/03/17-12:22:36.677 e90 Generated table #36@0: 9 keys, 1389 bytes
+2026/03/17-12:22:36.677 e90 Compacted 4@0 + 1@1 files => 1389 bytes
+2026/03/17-12:22:36.678 e90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/17-12:22:36.678 e90 Delete type=2 #35
+2026/03/17-12:22:36.679 e90 Delete type=2 #30
+2026/03/17-12:22:36.679 e90 Delete type=2 #25
+2026/03/17-12:22:36.679 e90 Delete type=2 #33
+2026/03/17-12:22:36.679 e90 Delete type=2 #27

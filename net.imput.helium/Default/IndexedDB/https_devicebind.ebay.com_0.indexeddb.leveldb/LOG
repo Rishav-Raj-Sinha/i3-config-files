@@ -1,0 +1,6 @@
+2026/05/28-01:50:46.139 a39 Creating DB /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb since it was missing.
+2026/05/28-01:50:46.149 a39 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/28-01:50:53.355 a38 Level-0 table #5: started
+2026/05/28-01:50:53.359 a38 Level-0 table #5: 1217 bytes OK
+2026/05/28-01:50:53.363 a38 Delete type=0 #3
+2026/05/28-01:50:53.363 a38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

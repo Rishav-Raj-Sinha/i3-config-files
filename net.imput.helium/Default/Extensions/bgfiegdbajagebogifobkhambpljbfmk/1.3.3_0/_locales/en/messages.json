@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "description of the browser extension on the store. \u003C= 132 characters",
+      "message": "Enhancer for YouTube Music™. Dynamic Themes, Visualizers, Side Panel Mini Player, Lyrics, Sleep Timer, Notifications, and more!"
+   },
+   "appName": {
+      "description": "name of the browser extension on the store. \u003C= 45 characters",
+      "message": "ThemeSong for YouTube Music™ (Enhancer)"
+   }
+}

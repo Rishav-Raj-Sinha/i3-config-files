@@ -1,0 +1,6 @@
+2026/05/22-17:59:21.152 5a4 Creating DB /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.canva.in_0.indexeddb.leveldb since it was missing.
+2026/05/22-17:59:21.166 5a4 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.canva.in_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/22-17:59:25.143 5a4 Level-0 table #5: started
+2026/05/22-17:59:25.148 5a4 Level-0 table #5: 20529 bytes OK
+2026/05/22-17:59:25.155 5a4 Delete type=0 #3
+2026/05/22-17:59:25.156 5a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

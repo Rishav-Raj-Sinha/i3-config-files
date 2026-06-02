@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Zed
+GenericName=Text Editor
+Comment=A high-performance, multiplayer code editor.
+TryExec=zeditor
+StartupNotify=true
+Exec=zeditor %U
+Icon=zed
+Categories=Utility;TextEditor;Development;IDE;
+Keywords=zed;
+MimeType=text/plain;application/x-zerosize;x-scheme-handler/zed;
+Actions=NewWorkspace;
+X-XFCE-Source=file:///usr/share/applications/dev.zed.Zed.desktop
+
+[Desktop Action NewWorkspace]
+Exec=zeditor --new %U
+Name=Open a new workspace

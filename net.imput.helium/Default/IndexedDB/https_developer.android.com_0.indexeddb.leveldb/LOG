@@ -1,0 +1,7 @@
+2026/05/23-03:26:58.768 5a6 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_developer.android.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/23-03:26:58.768 5a6 Recovering log #3
+2026/05/23-03:26:58.769 5a6 Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_developer.android.com_0.indexeddb.leveldb/000003.log 
+2026/05/23-18:48:43.731 5a4 Level-0 table #5: started
+2026/05/23-18:48:43.747 5a4 Level-0 table #5: 11946 bytes OK
+2026/05/23-18:48:43.754 5a4 Delete type=0 #3
+2026/05/23-18:48:43.755 5a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

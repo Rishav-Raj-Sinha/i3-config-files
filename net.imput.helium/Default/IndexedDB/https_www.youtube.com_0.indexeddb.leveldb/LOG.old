@@ -1,0 +1,7 @@
+2026/05/31-04:12:59.894 2ed3 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/31-04:12:59.895 2ed3 Recovering log #249
+2026/05/31-04:12:59.897 2ed3 Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000249.log 
+2026/05/31-04:13:00.985 2ed3 Compacting 1@1 + 1@2 files
+2026/05/31-04:13:00.997 2ed3 Generated table #252@1: 2520 keys, 493231 bytes
+2026/05/31-04:13:00.997 2ed3 Compacted 1@1 + 1@2 files => 493231 bytes
+2026/05/31-04:13:00.999 2ed3 compacted to: files[ 0 0 1 0 0 0 0 ]

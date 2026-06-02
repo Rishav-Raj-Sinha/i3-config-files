@@ -1,0 +1,8 @@
+[2026-Apr-26 02:48:30.583 +05:30][ 5584: 5584][info ] Logging initialized
+[2026-Apr-26 02:51:29.027 +05:30][ 5584: 5617][info ] Long Queue Time for store 'Utils'. Task 'SetObservedGamesCallback2' executed for 52.534604ms
+[2026-Apr-27 23:15:10.039 +05:30][26402:26402][info ] Logging initialized
+[2026-Apr-27 23:15:12.162 +05:30][26402:26752][warning] Failed to connect to Wayland display
+[2026-Apr-27 23:15:12.165 +05:30][26402:26402][info ] Logging initialized
+[2026-Apr-27 23:15:17.967 +05:30][26402:26752][info ] Long Queue Time for store 'Utils'. Task 'SetObservedGamesCallback2' executed for 64.62479ms
+[2026-Apr-28 18:28:12.326 +05:30][10528:10528][info ] Logging initialized
+[2026-May-02 23:32:13.271 +05:30][ 1619: 1619][info ] Logging initialized

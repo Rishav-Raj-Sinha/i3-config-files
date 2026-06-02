@@ -1,0 +1,8 @@
+2026/06/03-01:43:06.325 365a Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/03-01:43:06.327 365a Recovering log #249
+2026/06/03-01:43:06.330 365a Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000249.log 
+2026/06/03-01:43:06.330 365a Delete type=2 #248
+2026/06/03-01:43:06.330 365a Delete type=2 #250
+2026/06/03-01:47:18.748 365d Level-0 table #255: started
+2026/06/03-01:47:18.767 365d Level-0 table #255: 2007029 bytes OK
+2026/06/03-01:47:18.770 365d Delete type=0 #249

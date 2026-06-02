@@ -1,0 +1,7 @@
+2026/05/26-22:25:49.189 5e1 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/WebStorage/45/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/05/26-22:25:49.190 5e1 Recovering log #3
+2026/05/26-22:25:49.190 5e1 Reusing old log /home/rishav/.config/net.imput.helium/Default/WebStorage/45/IndexedDB/indexeddb.leveldb/000003.log 
+2026/05/27-04:37:36.578 5e1 Level-0 table #5: started
+2026/05/27-04:37:36.582 5e1 Level-0 table #5: 920 bytes OK
+2026/05/27-04:37:36.586 5e1 Delete type=0 #3
+2026/05/27-04:37:36.586 5e1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

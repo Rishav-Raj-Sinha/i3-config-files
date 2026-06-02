@@ -1,0 +1,6 @@
+2026/05/24-04:22:28.565 20229 Creating DB /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb since it was missing.
+2026/05/24-04:22:28.580 20229 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/24-04:22:43.304 20229 Level-0 table #5: started
+2026/05/24-04:22:43.309 20229 Level-0 table #5: 43704 bytes OK
+2026/05/24-04:22:43.316 20229 Delete type=0 #3
+2026/05/24-04:22:43.316 20229 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

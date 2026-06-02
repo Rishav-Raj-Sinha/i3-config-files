@@ -1,0 +1,6 @@
+2026/05/26-18:11:18.683 5e1 Creating DB /home/rishav/.config/net.imput.helium/Default/WebStorage/44/IndexedDB/indexeddb.leveldb since it was missing.
+2026/05/26-18:11:18.700 5e1 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/WebStorage/44/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/05/26-18:21:21.440 5e2 Level-0 table #5: started
+2026/05/26-18:21:21.443 5e2 Level-0 table #5: 890 bytes OK
+2026/05/26-18:21:21.446 5e2 Delete type=0 #3
+2026/05/26-18:21:21.446 5e2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

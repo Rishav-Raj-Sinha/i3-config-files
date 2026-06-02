@@ -1,0 +1,6 @@
+2026/05/28-03:52:44.591 a38 Creating DB /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.photopea.com_0.indexeddb.leveldb since it was missing.
+2026/05/28-03:52:44.596 a38 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.photopea.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/28-05:04:31.741 a38 Level-0 table #5: started
+2026/05/28-05:04:31.750 a38 Level-0 table #5: 3483 bytes OK
+2026/05/28-05:04:31.753 a38 Delete type=0 #3
+2026/05/28-05:04:31.753 a38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

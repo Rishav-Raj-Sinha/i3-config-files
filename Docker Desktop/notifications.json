@@ -1,0 +1,94 @@
+{
+	"notifications": [
+		{
+			"guid": "3fa16dea-f58a-4dd9-8b4b-c1c157611ee5",
+			"timestamp": 1773506881550,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"icon": "error",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"ephemeral": false,
+				"title": "Unable to log in",
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "8eafd21a-5a6b-44c6-9831-f92ee0f77daa",
+			"timestamp": 1773726756238,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"ephemeral": false,
+				"icon": "download",
+				"message": "Docker Desktop 4.65.0 is available.",
+				"actionText": "Download",
+				"action": {
+					"action": "update-available",
+					"params": {
+						"targetVersion": "4.65.0"
+					}
+				},
+				"type": "update"
+			}
+		},
+		{
+			"guid": "ee618351-b2fd-4924-aa60-6c5c54106c47",
+			"timestamp": 1773731792423,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"type": "action-result",
+				"icon": "info",
+				"message": "Pulling docker/welcome-to-docker:latest canceled",
+				"operation": "Pull image docker/welcome-to-docker:latest",
+				"title": "Pulling docker/welcome-to-docker:latest canceled",
+				"ephemeral": false
+			}
+		},
+		{
+			"guid": "4ffd304f-0ed2-440a-b719-2c73eb150616",
+			"timestamp": 1779391077195,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Sign in to share images and collaborate with your team",
+				"icon": "disconnected",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"ephemeral": false,
+				"title": "You are signed out",
+				"actionText": "Sign in",
+				"action": {
+					"action": "open-login",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "c1894122-2d06-40e1-a181-a09f0a087407",
+			"timestamp": 1779391083947,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "How was your startup experience with Docker Desktop?",
+				"icon": "campaign",
+				"type": "feedback",
+				"ephemeral": false,
+				"actionText": "Give feedback",
+				"action": {
+					"action": "open-external-url",
+					"params": {
+						"url": "https://docker.qualtrics.com/jfe/form/SV_6AaVyp25bygjirY?DD_Version=4.74.0&Mode=local&Tab=Startup%2BComplete&OS=Linux"
+					}
+				}
+			}
+		}
+	]
+}

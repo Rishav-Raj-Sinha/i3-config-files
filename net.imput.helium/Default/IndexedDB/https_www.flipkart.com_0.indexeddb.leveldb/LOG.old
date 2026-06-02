@@ -1,0 +1,21 @@
+2026/05/29-19:50:16.259 990 Reusing MANIFEST /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/29-19:50:16.259 990 Recovering log #127
+2026/05/29-19:50:16.259 990 Reusing old log /home/rishav/.config/net.imput.helium/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/000127.log 
+2026/05/29-19:52:37.957 991 Level-0 table #133: started
+2026/05/29-19:52:37.979 991 Level-0 table #133: 2586459 bytes OK
+2026/05/29-19:52:37.988 991 Delete type=0 #127
+2026/05/29-19:53:07.222 991 Compacting 1@1 + 1@2 files
+2026/05/29-19:53:07.262 991 Generated table #134@1: 952 keys, 1812683 bytes
+2026/05/29-19:53:07.263 991 Compacted 1@1 + 1@2 files => 1812683 bytes
+2026/05/29-19:53:07.267 991 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/29-19:53:07.294 990 Level-0 table #136: started
+2026/05/29-19:53:07.306 990 Level-0 table #136: 1789983 bytes OK
+2026/05/29-19:53:07.310 990 Delete type=2 #130
+2026/05/29-19:53:07.311 990 Delete type=2 #133
+2026/05/29-19:53:07.311 990 Delete type=0 #132
+2026/05/29-19:53:27.052 991 Compacting 1@1 + 1@2 files
+2026/05/29-19:53:27.071 991 Generated table #137@1: 219 keys, 373539 bytes
+2026/05/29-19:53:27.071 991 Compacted 1@1 + 1@2 files => 373539 bytes
+2026/05/29-19:53:27.072 991 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/29-19:53:27.073 991 Delete type=2 #136
+2026/05/29-19:53:27.073 991 Delete type=2 #134

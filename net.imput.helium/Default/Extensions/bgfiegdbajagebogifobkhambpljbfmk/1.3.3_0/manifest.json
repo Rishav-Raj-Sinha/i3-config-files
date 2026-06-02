@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": "assets/icon-34.png",
+      "default_popup": "popup.html",
+      "default_title": "ThemeSong for YouTube Music™"
+   },
+   "background": {
+      "service_worker": "themesong-background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "themesong-content.js" ],
+      "matches": [ "https://music.youtube.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "host_permissions": [ "https://music.youtube.com/*" ],
+   "icons": {
+      "128": "assets/icon-128.png",
+      "34": "assets/icon-34.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxYPLKjfsQs4SN2OGfBIAOaWTAFF3Wb8ASUu5T4oj9ewlAHqOtmXc8d8X/v4cbhi/kk25oTSBS/Lpb4KbhTKbLG0AGc9Ltm+snMKtKPXSaHwPl9sj0z0hrTYpJMlvwv7ePgKDANjNkXqQGFz/h4+Agqx64bVC2wxjjENVmSVTfhxNFkiwy/3UquLjeLyZBk0m6fftqK2s0l2NxEXj8NlqkCqys8sRBqw/wtiKAUqLDMNoG/lrcykT4GgDSZovpkB1pgQ0u3PTmNSZx/QPLhDR89ECX7tqiAXsDF05XYUre+CeaDkxnJ3WkXvxWL3wjd8e8ACoqZ5ucp3wLOWUFv8moQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "105",
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "scripting", "notifications", "search", "sidePanel" ],
+   "side_panel": {
+      "default_path": "sidepanel.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.3",
+   "web_accessible_resources": [ {
+      "matches": [ "https://music.youtube.com/*" ],
+      "resources": [ "/assets/*" ]
+   } ]
+}
